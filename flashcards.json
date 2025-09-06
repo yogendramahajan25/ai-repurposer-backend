@@ -103,109 +103,8 @@
           "answer": "The individual who motivates others to take action."
         }
       ],
-      "source_file_hi": "व्यावसायिक संचार का परिचय",
-      "flashcards_hi": [
-      {
-        "question": "संचार क्या है?",
-        "answer": "सूचना के प्रसारण और प्राप्ति की प्रक्रिया।"
-      },
-      {
-        "question": "संचार प्रक्रिया में शामिल दो व्यक्ति कौन होते हैं?",
-        "answer": "प्रेषक और प्राप्तकर्ता।"
-      },
-      {
-        "question": "संचार के संदर्भ में एन्कोडिंग क्या है?",
-        "answer": "संचार को समझने योग्य प्रतीकों में बदलने की प्रक्रिया।"
-      },
-      {
-        "question": "संचार के संदर्भ में माध्यम (मीडिया) क्या है?",
-        "answer": "एक विशेष चैनल, माध्यम या मार्ग जिसके द्वारा संदेश प्रेषित किया जाता है।"
-      },
-      {
-        "question": "संचार प्रक्रिया में प्राप्तकर्ता कौन होता है?",
-        "answer": "वह व्यक्ति जो प्रेषक से संदेश प्राप्त करता है।"
-      },
-      {
-        "question": "संचार के संदर्भ में प्रतिक्रिया (फ़ीडबैक) क्या है?",
-        "answer": "जब प्राप्तकर्ता संदेश पर अपनी प्रतिक्रिया देता है, तो संचार की विपरीत प्रक्रिया।"
-      },
-      {
-        "question": "प्रभावी संचार के सिद्धांत क्या हैं?",
-        "answer": "उद्देश्य निर्धारित करना, संगठित रहना, दृश्य रूप से प्रभावी होना, न्यूनतावाद अपनाना और जिज्ञासा बनाए रखना।"
-      },
-      {
-        "question": "संचार अवरोध (बैरियर) क्या है?",
-        "answer": "ऐसी बाधा जो व्यक्तियों के बीच सफल संचार में रुकावट डालती है।"
-      },
-      {
-        "question": "भाषा अवरोध के कुछ उदाहरण क्या हैं?",
-        "answer": "अलग-अलग भाषाएँ या व्यक्तियों में भाषा कौशल का अंतर।"
-      },
-      {
-        "question": "संचार के संदर्भ में शोर (Noise) क्या है?",
-        "answer": "ऐसे प्रभाव जो संचार प्रक्रिया में बाधा या ध्यान भटकाव उत्पन्न करते हैं।"
-      },
-      {
-        "question": "संचार प्रक्रिया में प्रेषक कौन होता है?",
-        "answer": "वह व्यक्ति जो अपने विचार, सोच या संदेश प्राप्तकर्ता को भेजता है।"
-      },
-      {
-        "question": "प्रभावी संचार के आठ आवश्यक सिद्धांत क्या हैं?",
-        "answer": "स्पष्टता, समयबद्धता, सामंजस्य, तात्कालिकता, संक्षिप्तता, सटीकता, शिष्टाचार और पूर्णता।"
-      },
-      {
-        "question": "मौखिक संचार क्या है?",
-        "answer": "बोले गए और लिखित शब्दों का उपयोग करके संदेश और जानकारी पहुँचाना।"
-      },
-      {
-        "question": "मनोवैज्ञानिक अवरोधों के कुछ उदाहरण क्या हैं?",
-        "answer": "ऐसी मानसिक स्थितियाँ जो व्यक्तियों के बीच सफल संचार को बाधित करती हैं।"
-      },
-      {
-        "question": "संचार में अर्थगत (Semantic) अवरोध क्या है?",
-        "answer": "ऐसा अवरोध जो संदेश के अपेक्षित अर्थ को बदल देता है।"
-      },
-      {
-        "question": "संचार का स्वरूप और परिमाण क्या है?",
-        "answer": "बोले गए, लिखित या गैर-मौखिक साधनों द्वारा सूचना का प्रसारण और प्राप्ति।"
-      },
-      {
-        "question": "संचार के प्रकार क्या हैं?",
-        "answer": "मौखिक (बोला या लिखा हुआ), गैर-मौखिक (शारीरिक भाषा, रूप, स्वर) और संदर्भ से प्राप्त।"
-      },
-      {
-        "question": "प्रभावी संचार में उद्देश्य कौन निर्धारित करता है?",
-        "answer": "वह व्यक्ति जो अपने विचार, सोच या संदेश प्राप्तकर्ता तक पहुँचाता है।"
-      },
-      {
-        "question": "प्रभावी संचार में संगठित रहने का महत्व क्या है?",
-        "answer": "शुरू से ही सामंजस्य बनाए रखने के लिए।"
-      },
-      {
-        "question": "प्रभावी संचार में न्यूनतावाद अपनाना क्यों आवश्यक है?",
-        "answer": "सूचना को कुशलतापूर्वक और प्रभावी ढंग से प्रस्तुत करने के लिए।"
-      },
-      {
-        "question": "प्राप्तकर्ता संदेश पर कैसे प्रतिक्रिया दे सकता है?",
-        "answer": "उत्तर देकर या उत्तर न देकर।"
-      },
-      {
-        "question": "प्रभावी संचार में स्पष्टता की भूमिका क्या है?",
-        "answer": "यह सुनिश्चित करने के लिए कि संदेश अपने इच्छित अर्थ को व्यक्त करे।"
-      },
-      {
-        "question": "प्रभावी संचार में समयबद्धता क्यों महत्वपूर्ण है?",
-        "answer": "सही समय पर जानकारी पहुँचाने के लिए।"
-      },
-      {
-        "question": "सांस्कृतिक अवरोधों का महत्व क्या है?",
-        "answer": "जब व्यक्तियों की भाषा क्षमता अलग-अलग हो या वे अलग भाषाएँ बोलते हों।"
-      },
-      {
-        "question": "प्रभावी संचार में विचार-नेता किसे कहा जा सकता है?",
-        "answer": "वह व्यक्ति जो दूसरों को कार्य करने के लिए प्रेरित करता है।"
-      }
-    ],
+      "source_file_hi": "",
+      "flashcards_hi": [],
       "flashcard_count": 25
     },
     "12": {
@@ -312,110 +211,9 @@
             "answer": " The primary objectives of letters were to provide information, news, and salutations. For many individuals, letters served to enhance their skills in analysing texts, conveying their thoughts and opinions convincingly, and engaging in intellectual discourse with those who shared similar perspectives."
           }
         ],
-        "source_file_hi": "लिखित संचार",
-        "flashcards_hi": [
-        {
-          "question": "लिखित संचार क्या है?",
-          "answer": "लिखित संचार उस प्रक्रिया को कहते हैं जिसमें दो या अधिक व्यक्तियों के बीच संदेशों का आदान-प्रदान किया जाता है।"
-        },
-        {
-          "question": "लिखित संचार के प्राथमिक रूप कौन से हैं?",
-          "answer": "व्यावसायिक प्रक्रियाओं में आंतरिक रूप से प्रयुक्त रूप: मेमो, रिपोर्ट, बुलेटिन, नौकरी विवरण, स्टाफ मैनुअल और ई-मेल। ग्राहकों, आपूर्तिकर्ताओं और व्यावसायिक समुदाय के साथ प्रयुक्त रूप: ई-मेल, वेबसाइट, पत्र, प्रस्ताव, टेलीग्राम, फैक्स, पोस्टकार्ड, अनुबंध, विज्ञापन, ब्रोशर और प्रेस विज्ञप्ति।"
-        },
-        {
-          "question": "लिखित संचार का महत्व क्या है?",
-          "answer": "लिखित संचार हमें अपने दृष्टिकोण को संक्षिप्त रूप से व्यक्त करने में मदद करता है। इसमें हम उपयुक्त शब्द चुनने, वाक्यों को व्यवस्थित करने और संदेश को सटीक रूप से पहुँचाने का समय ले सकते हैं।"
-        },
-        {
-          "question": "पत्रों की मुख्य श्रेणियाँ कौन-सी हैं?",
-          "answer": "पत्रों की दो मुख्य श्रेणियाँ होती हैं: औपचारिक पत्र और अनौपचारिक पत्र। हालाँकि, सामग्री, औपचारिकताओं और उद्देश्य के आधार पर पत्रों की और भी श्रेणियाँ हो सकती हैं।"
-        },
-        {
-          "question": "व्यावसायिक पत्र क्या है?",
-          "answer": "व्यावसायिक पत्र एक औपचारिक पत्राचार है जिसका उपयोग संगठन उपभोक्ताओं, अन्य कंपनियों, ग्राहकों, शेयरधारकों, निवेशकों और संबंधित पक्षों से पेशेवर संवाद के लिए करते हैं। इसमें औपचारिक भाषा और निर्धारित प्रारूप का प्रयोग होता है।"
-        },
-        {
-          "question": "मजबूत व्यावसायिक पत्राचार लिखने के आवश्यक घटक क्या हैं?",
-          "answer": "इनमें पेशेवर लेटरहेड शामिल करना, औपचारिक अभिवादन से पत्र की शुरुआत करना, अनुच्छेदों को सुव्यवस्थित रखना, पेशेवर भाषा का प्रयोग करना और शिष्टतापूर्ण समापन करना शामिल है।"
-        },
-        {
-          "question": "व्यावसायिक पत्रों की आवश्यकता क्यों होती है?",
-          "answer": "पत्र लेखन कॉर्पोरेट संचार का एक महत्वपूर्ण पहलू है। अंतरराष्ट्रीय व्यापार, राष्ट्रीय, भाषाई और सांस्कृतिक बाधाओं को पार करने की आवश्यकता ने पत्रों को एक महत्त्वपूर्ण आर्थिक उपकरण बना दिया है।"
-        },
-        {
-          "question": "व्यावसायिक पत्रों के कार्य क्या हैं?",
-          "answer": "व्यावसायिक पत्र कंपनी के प्रवक्ता के रूप में कार्य करता है और व्यक्तिगत मुलाकात का एक सस्ता विकल्प है। इसका उद्देश्य व्यापार से संबंधित जानकारी फैलाना, कानूनी प्रमाण प्रदान करना, भविष्य के लेन-देन के लिए संदर्भ दस्तावेज़ बनना, सकारात्मक संबंध बनाए रखना, कर्मचारियों के प्रदर्शन को प्रोत्साहित करना और व्यापार को बढ़ाना है।"
-        },
-        {
-          "question": "लिखित संचार का महत्व क्या है?",
-          "answer": "यह उच्चारण की त्रुटियों या संदेश भूलने की समस्या को समाप्त करता है। इसके अलावा इसे आसानी से साझा किया जा सकता है, संग्रहित किया जा सकता है और सुविधानुसार पढ़ा जा सकता है।"
-        },
-        {
-          "question": "पत्रों के प्रकार कौन-कौन से हैं?",
-          "answer": "व्यावसायिक पत्रों में विभिन्न कारणों से प्रयुक्त पत्राचार शामिल है, जैसे समस्याओं का संचार और जानकारी साझा करना। ये पत्र औपचारिक संरचना और शैली में पेशेवर ढंग से लिखे जाते हैं।"
-        },
-        {
-          "question": "ऑफ़र लेटर क्या है?",
-          "answer": "ऑफ़र लेटर एक औपचारिक दस्तावेज़ है जो कंपनी संभावित नए कर्मचारियों को भेजती है। यह उस उम्मीदवार को दिया जाता है जिसने साक्षात्कार प्रक्रिया पूरी कर ली हो और चयनित हुआ हो।"
-        },
-        {
-          "question": "सिफारिश पत्र क्या है?",
-          "answer": "सिफारिश पत्र (Recommendation Letter) एक लिखित दस्तावेज़ है जिसमें कोई व्यक्ति दूसरे की योग्यता का सकारात्मक मूल्यांकन करता है।"
-        },
-        {
-          "question": "सेल्स लेटर क्या है?",
-          "answer": "सेल्स लेटर का उपयोग व्यवसाय वर्तमान और संभावित ग्राहकों से अपने उत्पादों और सेवाओं, नए उत्पादों और बदलावों के बारे में संवाद करने के लिए करते हैं।"
-        },
-        {
-          "question": "माफ़ी पत्र क्या है?",
-          "answer": "माफ़ी पत्र एक औपचारिक लिखित पत्र है जो किसी गलती के लिए क्षमा माँगने हेतु एक व्यक्ति दूसरे को भेजता है।"
-        },
-        {
-          "question": "इस्तीफ़ा पत्र क्या है?",
-          "answer": "इस्तीफ़ा पत्र एक औपचारिक पत्राचार है जो कर्मचारी अपने संगठन को भेजते हैं, जिससे वे कंपनी छोड़ने की इच्छा व्यक्त करते हैं।"
-        },
-        {
-          "question": "यहाँ कौन-कौन से पत्रों के प्रकार बताए गए हैं?",
-          "answer": "इनमें व्यावसायिक पत्र, कवर लेटर, ऑफ़र लेटर, सिफारिश पत्र, सेल्स लेटर, माफ़ी पत्र, धन्यवाद पत्र, इस्तीफ़ा पत्र, साक्षात्कार फॉलो-अप पत्र और शिकायत पत्र शामिल हैं।"
-        },
-        {
-          "question": "ब्लॉक प्रारूप क्या है?",
-          "answer": "ब्लॉक प्रारूप एक सामान्य व्यावसायिक पत्र प्रारूप है। इसमें पूरा पत्र बाएँ तरफ़ संरेखित होता है और अनुच्छेदों के बीच केवल डबल स्पेस होता है।"
-        },
-        {
-          "question": "पत्र के मुख्य भाग के लिए कौन-कौन सी शैलियाँ प्रयोग होती हैं?",
-          "answer": "ब्लॉक प्रारूप में अनुच्छेदों के बीच एक लाइन छोड़कर सब कुछ बाएँ संरेखित लिखा जाता है। सेमी-ब्लॉक प्रारूप में प्रत्येक नए अनुच्छेद की शुरुआत इंडेंटेशन से होती है।"
-        },
-        {
-          "question": "संक्षिप्त लेखन क्या है?",
-          "answer": "संक्षिप्त लेखन का अर्थ है विवरण और संगठन पर सावधानीपूर्वक ध्यान देकर जानकारी को स्पष्ट और व्यवस्थित ढंग से प्रस्तुत करना।"
-        },
-        {
-          "question": "लिखित संचार कौशल क्या हैं?",
-          "answer": "लिखित संचार कौशल वे क्षमताएँ हैं जिनका उपयोग कोई व्यक्ति संदेश को प्रभावी ढंग से लिखित रूप में पहुँचाने के लिए करता है।"
-        },
-        {
-          "question": "संक्षिप्त लेखन क्यों महत्वपूर्ण है?",
-          "answer": "संक्षिप्त लेखन विवरण और संगठन पर ध्यान केंद्रित करता है, जिससे जानकारी को साझा करना, संग्रहित करना और पढ़ना आसान हो जाता है।"
-        },
-        {
-          "question": "ग्राहकों, आपूर्तिकर्ताओं और व्यावसायिक समुदाय के साथ प्रयुक्त लिखित संचार के प्राथमिक रूप कौन से हैं?",
-          "answer": "ई-मेल, वेबसाइट, पत्र, प्रस्ताव, टेलीग्राम, फैक्स, पोस्टकार्ड, अनुबंध, विज्ञापन, ब्रोशर और प्रेस विज्ञप्ति।"
-        },
-        {
-          "question": "लिखित संचार में व्यावसायिकता का महत्व क्या है?",
-          "answer": "पेशेवर वातावरण में उच्च मानकों के अनुरूप व्यवहार और प्रदर्शन आवश्यक होता है। लिखित पत्राचार सीधे हमारी व्यावसायिकता को दर्शाता है।"
-        },
-        {
-          "question": "सैम्पलिंग प्रोग्राम प्रभावी क्यों होते हैं?",
-          "answer": "वे ग्राहकों को उत्पाद या सेवा का प्रत्यक्ष अनुभव देते हैं, जिससे संतुष्टि और वफादारी बढ़ती है।"
-        },
-        {
-          "question": "पत्रों का मुख्य उद्देश्य क्या है?",
-          "answer": "पत्रों का मुख्य उद्देश्य जानकारी, समाचार और अभिवादन देना है। साथ ही, वे विश्लेषणात्मक कौशल, विचार अभिव्यक्ति और बौद्धिक संवाद को भी बढ़ाते हैं।"
-        }
-      ],
-      "flashcard_count": 25
+        "source_file_hi": "",
+        "flashcards_hi": [],
+        "flashcard_count": 25
     },
     "21": {
       "source_file_en": "Introduction to Financial Accounting",
@@ -521,109 +319,8 @@
       "answer": "[Insert specific example, e.g., Reliance Industries Limited (RIL)]"
     }
     ], 
-    "source_file_hi": "वित्तीय लेखांकन का परिचय",
-    "flashcards_hi": [
-  {
-    "question": "लेखांकन क्या है?",
-    "answer": "वित्तीय लेन-देन का व्यवस्थित रिकॉर्डिंग, रिपोर्टिंग और विश्लेषण।"
-  },
-  {
-    "question": "लेखांकन में हितधारक कौन हैं?",
-    "answer": "निवेशक, प्रबंधक, नियामक और आम जनता।"
-  },
-  {
-    "question": "लेखांकन का उद्देश्य क्या है?",
-    "answer": "सूचित निर्णय लेने के लिए आवश्यक वित्तीय जानकारी प्रदान करना।"
-  },
-  {
-    "question": "लेखांकन के मुख्य घटक क्या हैं?",
-    "answer": "लेन-देन का रिकॉर्ड करना, डेटा का वर्गीकरण करना, जानकारी का सारांश बनाना और वित्तीय प्रदर्शन का विश्लेषण करना।"
-  },
-  {
-    "question": "इकाई अवधारणा क्या कहती है?",
-    "answer": "व्यवसाय को उसके मालिकों से अलग इकाई के रूप में देखा जाता है।"
-  },
-  {
-    "question": "मुद्रा मापन अवधारणा क्या है?",
-    "answer": "केवल वही वित्तीय लेन-देन दर्ज किए जाते हैं जिन्हें मौद्रिक रूप में मापा जा सकता है।"
-  },
-  {
-    "question": "द्वि-आयामी अवधारणा क्या है?",
-    "answer": "हर लेन-देन का लेखांकन समीकरण (संपत्ति = देयताएँ + इक्विटी) पर द्विपक्षीय प्रभाव पड़ता है।"
-  },
-  {
-    "question": "सततता अवधारणा (Going Concern) क्या है?",
-    "answer": "कंपनी को यह मानकर चलाया जाता है कि वह भविष्य में भी कार्य करती रहेगी।"
-  },
-  {
-    "question": "लागत अवधारणा क्या है?",
-    "answer": "संपत्ति को उसके मूल खरीद मूल्य पर दर्ज किया जाता है, न कि बाज़ार मूल्य पर।"
-  },
-  {
-    "question": "लेखांकन जानकारी के उपयोगकर्ता कौन हैं?",
-    "answer": "प्रबंधन, निवेशक, ऋणदाता, कर्मचारी, सरकार और जनता।"
-  },
-  {
-    "question": "वित्तीय लेखांकन क्या है?",
-    "answer": "यह प्रबंधकों को सूचित व्यावसायिक निर्णय लेने में मदद के लिए आंतरिक रिपोर्ट प्रदान करता है।"
-  },
-  {
-    "question": "प्रबंधन लेखांकन क्या है?",
-    "answer": "यह निवेशकों और नियामकों जैसे हितधारकों को सूचित निर्णय लेने के लिए बाहरी रिपोर्ट प्रदान करता है।"
-  },
-  {
-    "question": "संगति सिद्धांत क्या है?",
-    "answer": "कंपनियाँ हर अवधि में एक ही लेखांकन विधियों का उपयोग करती हैं।"
-  },
-  {
-    "question": "पूर्ण प्रकटीकरण सिद्धांत क्या है?",
-    "answer": "कंपनियों को अपने वित्तीय विवरणों में सभी प्रासंगिक जानकारी का खुलासा करना चाहिए।"
-  },
-  {
-    "question": "लेखांकन डेटा का ऐतिहासिक स्वरूप क्या है?",
-    "answer": "लेखांकन डेटा भविष्य के प्रदर्शन का संकेतक नहीं हो सकता।"
-  },
-  {
-    "question": "लेखांकन की सीमाएँ क्या हैं?",
-    "answer": "ऐतिहासिक स्वरूप, व्यक्तिपरकता, जटिलता और महँगाई।"
-  },
-  {
-    "question": "मालिक का निवेश लेखांकन समीकरण को कैसे प्रभावित करता है?",
-    "answer": "यह संपत्ति (नकद) और इक्विटी दोनों को बढ़ाता है।"
-  },
-  {
-    "question": "उधार पर उपकरण खरीदना लेखांकन समीकरण को कैसे प्रभावित करता है?",
-    "answer": "यह संपत्ति (उपकरण) और देयताएँ (लेनदार खाते) दोनों को बढ़ाता है।"
-  },
-  {
-    "question": "आय अर्जित करना लेखांकन समीकरण को कैसे प्रभावित करता है?",
-    "answer": "यह संपत्ति (नकद या देय खाते) और इक्विटी (आय) दोनों को बढ़ाता है।"
-  },
-  {
-    "question": "आधुनिक व्यावसायिक वातावरण में लेखाकारों की भूमिका क्या है?",
-    "answer": "उन्हें तकनीक को अपनाना, स्थिरता रिपोर्टिंग पर ध्यान देना और वैश्वीकरण के अनुसार ढलना होता है।"
-  },
-  {
-    "question": "तकनीक ने लेखांकन को कैसे बदल दिया है?",
-    "answer": "वित्तीय डेटा विश्लेषण और धोखाधड़ी का पता लगाने के लिए एआई और मशीन लर्निंग जैसी तकनीकों का उपयोग।"
-  },
-  {
-    "question": "सततता रिपोर्टिंग क्या है?",
-    "answer": "कंपनियाँ अब अपने सामाजिक और पर्यावरणीय प्रभाव की रिपोर्टिंग पर ध्यान केंद्रित कर रही हैं।"
-  },
-  {
-    "question": "वैश्वीकरण का लेखांकन पर क्या प्रभाव पड़ा है?",
-    "answer": "अंतरराष्ट्रीय लेखांकन मानक (IFRS) अपनाए गए हैं, जिससे कंपनियों को विभिन्न नियमों का पालन करना पड़ता है।"
-  },
-  {
-    "question": "लेखांकन में डेटा एनालिटिक्स की भूमिका क्या है?",
-    "answer": "लेखाकार एनालिटिक्स उपकरणों का उपयोग वित्तीय डेटा का विश्लेषण करने, रुझानों को पहचानने और डेटा-आधारित निर्णय लेने के लिए कर रहे हैं।"
-  },
-  {
-    "question": "किसी बड़ी भारतीय कंपनी के हालिया वित्तीय लेन-देन से लेखांकन समीकरण (संपत्ति = देयताएँ + इक्विटी) पर क्या प्रभाव पड़ता है?",
-    "answer": "[यहाँ विशिष्ट उदाहरण डालें, जैसे रिलायंस इंडस्ट्रीज लिमिटेड (RIL)]"
-  }
-],
+    "source_file_hi": "",
+    "flashcards_hi": [],
     "flashcard_count": 25
     },
     "22": {
@@ -730,109 +427,166 @@
             "answer": " To ensure that transactions are recorded accurately and consistently, which helps in preparing reliable financial statements."
             }
         ],
-        "source_file_hi": "लेखांकन की मूल प्रक्रियाएं",
-        "flashcards_hi": [
-  {
-    "question": "जर्नलाइजिंग (Journalizing) क्या है?",
-    "answer": "वित्तीय लेन-देन को जर्नल में दर्ज करने की प्रक्रिया, जिसे मूल प्रविष्टियों की पुस्तक (Book of Original Entries) भी कहा जाता है।"
-  },
-  {
-    "question": "जर्नलाइजिंग का पहला कदम क्या है?",
-    "answer": "लेन-देन और उससे प्रभावित सभी खातों की पहचान करना।"
-  },
-  {
-    "question": "लेखांकन में डेबिट और क्रेडिट के नियम क्यों महत्वपूर्ण हैं?",
-    "answer": "ये बताते हैं कि लेन-देन किसी खाते को कैसे प्रभावित करते हैं।"
-  },
-  {
-    "question": "जब किसी संपत्ति (Asset) खाते को डेबिट किया जाता है तो क्या होता है?",
-    "answer": "उसकी राशि बढ़ जाती है।"
-  },
-  {
-    "question": "किस प्रकार के खाते का बैलेंस डेबिट करने पर घटता है?",
-    "answer": "राजस्व खाता (Revenue Account)"
-  },
-  {
-    "question": "जर्नलाइजिंग का उद्देश्य क्या है?",
-    "answer": "सभी संगठनात्मक गतिविधियों का सही और तार्किक रूप से दस्तावेज़ीकरण सुनिश्चित करना।"
-  },
-  {
-    "question": "लेजर में प्रविष्टियाँ पोस्ट करने के चरण क्या हैं?",
-    "answer": "खातों की पहचान करना, विवरण स्थानांतरित करना और खातों का संतुलन बनाना।"
-  },
-  {
-    "question": "ट्रायल बैलेंस तैयार करना क्यों महत्वपूर्ण है?",
-    "answer": "यह सुनिश्चित करता है कि कुल डेबिट और क्रेडिट सही तरह से बराबर हों, जिससे लेखा पुस्तकों की शुद्धता जाँची जा सके।"
-  },
-  {
-    "question": "जब किसी लेन-देन को लेखा पुस्तकों से हटा दिया जाता है, तो किस प्रकार की त्रुटि होती है?",
-    "answer": "छोड़ने की त्रुटि (Error of Omission)"
-  },
-  {
-    "question": "ट्रायल बैलेंस बनाने का उद्देश्य क्या है?",
-    "answer": "यह सुनिश्चित करना कि कुल डेबिट कुल क्रेडिट के बराबर हों, जिससे वित्तीय रिकॉर्ड की सटीकता की पुष्टि हो।"
-  },
-  {
-    "question": "कमीशन की त्रुटियाँ पहचानना और सुधारना क्यों महत्वपूर्ण है?",
-    "answer": "क्योंकि ये गलत वित्तीय विवरण और कंपनी की वित्तीय स्थिति का गलत चित्रण कर सकती हैं।"
-  },
-  {
-    "question": "डेबिट और क्रेडिट में क्या अंतर है?",
-    "answer": "डेबिट से संपत्ति या व्यय खाते की राशि बढ़ती है, जबकि क्रेडिट से घटती है।"
-  },
-  {
-    "question": "लेखांकन के नियमों का पालन करना क्यों महत्वपूर्ण है?",
-    "answer": "ये सुनिश्चित करते हैं कि लेन-देन लगातार और सटीक तरीके से दर्ज किए जाएँ, जिससे विश्वसनीय वित्तीय विवरण तैयार हो सकें।"
-  },
-  {
-    "question": "किस प्रकार के खाते का बैलेंस क्रेडिट करने पर बढ़ता है?",
-    "answer": "इक्विटी खाता (Equity Account)"
-  },
-  {
-    "question": "लेजर खातों का उद्देश्य क्या है?",
-    "answer": "प्रत्येक खाते को प्रभावित करने वाले सभी लेन-देन का विस्तृत रिकॉर्ड प्रदान करना।"
-  },
-  {
-    "question": "सिद्धांत की त्रुटियाँ (Errors of Principle) पहचानना और सुधारना क्यों महत्वपूर्ण है?",
-    "answer": "क्योंकि ये गलत वित्तीय विवरण और कंपनी की वित्तीय स्थिति का गलत चित्रण कर सकती हैं।"
-  },
-  {
-    "question": "जब किसी लेन-देन को गलत तरीके से पुस्तकों में दर्ज किया जाता है, तो किस प्रकार की त्रुटि होती है?",
-    "answer": "कमीशन की त्रुटि (Error of Commission)"
-  },
-  {
-    "question": "क्षतिपूरक त्रुटियाँ (Compensating Errors) पहचानना और सुधारना क्यों महत्वपूर्ण है?",
-    "answer": "क्योंकि ये गलत वित्तीय विवरण और कंपनी की वित्तीय स्थिति का गलत चित्रण कर सकती हैं।"
-  },
-  {
-    "question": "वित्तीय विवरण तैयार करने का उद्देश्य क्या है?",
-    "answer": "हितधारकों को कंपनी के वित्तीय प्रदर्शन और स्थिति के बारे में जानकारी प्रदान करना।"
-  },
-  {
-    "question": "ट्रायल बैलेंस तैयार करना क्यों आवश्यक है?",
-    "answer": "यह सुनिश्चित करने में मदद करता है कि कुल डेबिट और क्रेडिट बराबर हों, जिससे वित्तीय रिकॉर्ड की सटीकता की पुष्टि हो।"
-  },
-  {
-    "question": "किस प्रकार के खाते का बैलेंस क्रेडिट करने पर घटता है?",
-    "answer": "देयता खाता (Liability Account)"
-  },
-  {
-    "question": "जर्नल प्रविष्टियाँ दर्ज करना क्यों महत्वपूर्ण है?",
-    "answer": "ये प्रत्येक खाते को प्रभावित करने वाले सभी लेन-देन का विस्तृत रिकॉर्ड प्रदान करती हैं।"
-  },
-  {
-    "question": "जर्नल में लेन-देन दर्ज करने का उद्देश्य क्या है?",
-    "answer": "सभी संगठनात्मक गतिविधियों का सही और तार्किक रूप से दस्तावेज़ीकरण सुनिश्चित करना।"
-  },
-  {
-    "question": "छोड़ने की त्रुटियाँ (Errors of Omission) पहचानना और सुधारना क्यों महत्वपूर्ण है?",
-    "answer": "क्योंकि ये गलत वित्तीय विवरण और कंपनी की वित्तीय स्थिति का गलत चित्रण कर सकती हैं।"
-  },
-  {
-    "question": "लेजर में प्रविष्टियाँ पोस्ट करने का उद्देश्य क्या है?",
-    "answer": "यह सुनिश्चित करना कि लेन-देन सही और लगातार दर्ज हों, जिससे विश्वसनीय वित्तीय विवरण तैयार हो सकें।"
-  }
-],
+        "source_file_hi": "",
+        "flashcards_hi": [],
         "flashcard_count": 25
-      }
+      },
+    "13": {
+  "source_file_en": "Apple's Brand Communication Strategy",
+  "flashcards_en": [
+    {
+      "question": "What is the core focus of Apple’s brand communication strategy?",
+      "answer": "Simplicity, minimalism, and emotional connection with customers."
+    },
+    {
+      "question": "How does Apple differentiate its communication from competitors?",
+      "answer": "By emphasizing lifestyle and experiences rather than technical specifications."
+    },
+    {
+      "question": "What iconic campaign reinforced Apple’s focus on creativity and innovation?",
+      "answer": "The 'Think Different' campaign."
+    },
+    {
+      "question": "Why does Apple avoid overloading advertisements with technical jargon?",
+      "answer": "To make messages relatable and emphasize emotional benefits over product details."
+    },
+    {
+      "question": "What role do Apple Stores play in its brand communication strategy?",
+      "answer": "They act as immersive brand experience hubs where customers interact with products and values."
+    },
+    {
+      "question": "How does Apple use storytelling in its advertising?",
+      "answer": "By showcasing how products fit into and enhance everyday life."
+    },
+    {
+      "question": "What design principle is central to Apple’s product communication?",
+      "answer": "Minimalism in visuals, messaging, and product design."
+    },
+    {
+      "question": "How does Apple build trust and loyalty through communication?",
+      "answer": "By maintaining consistent messaging across all channels and prioritizing user experience."
+    },
+    {
+      "question": "What is the significance of Apple’s keynote events?",
+      "answer": "They serve as major brand communication moments, creating anticipation and global attention."
+    },
+    {
+      "question": "How does Apple position its products in communication campaigns?",
+      "answer": "As premium lifestyle essentials rather than just technology tools."
+    },
+    {
+      "question": "What emotion does Apple often associate with its brand communication?",
+      "answer": "Creativity, empowerment, and innovation."
+    },
+    {
+      "question": "How does Apple ensure consistency in its brand communication?",
+      "answer": "Through unified design, messaging, and tone across advertising, retail, and digital platforms."
+    },
+    {
+      "question": "What is Apple’s approach to social proof in communication?",
+      "answer": "Highlighting customer experiences and showcasing creative work done with Apple products."
+    },
+    {
+      "question": "Why are visuals so important in Apple’s brand communication?",
+      "answer": "Because visuals communicate simplicity, elegance, and product focus more effectively than words."
+    },
+    {
+      "question": "What role does minimal text play in Apple’s advertising?",
+      "answer": "It directs attention to the product and emotional message rather than distracting details."
+    },
+    {
+      "question": "How does Apple communicate innovation without explicitly stating it?",
+      "answer": "By demonstrating unique product features in real-life usage scenarios."
+    },
+    {
+      "question": "What is Apple’s brand personality as communicated to consumers?",
+      "answer": "Innovative, aspirational, minimalist, and customer-focused."
+    },
+    {
+      "question": "How do product launch events strengthen Apple’s brand communication?",
+      "answer": "They create hype, global media coverage, and reinforce Apple’s position as an industry leader."
+    },
+    {
+      "question": "What audience segment does Apple primarily target in its communication?",
+      "answer": "Creative professionals, innovators, and lifestyle-conscious consumers."
+    },
+    {
+      "question": "How does Apple use emotional branding?",
+      "answer": "By linking its products to creativity, self-expression, and human connection."
+    }
+  ],
+  "source_file_hi": "",
+  "flashcards_hi": [],
+  "flashcard_count": 20
+},
+"14": {
+  "source_file_en": "Crisis Communication at Johnson & Johnson",
+  "flashcards_en": [
+    {
+      "question": "What major incident tested Johnson & Johnson’s crisis communication?",
+      "answer": "The 1982 Tylenol cyanide poisoning crisis."
+    },
+    {
+      "question": "How did Johnson & Johnson respond immediately to the Tylenol crisis?",
+      "answer": "By recalling 31 million bottles of Tylenol nationwide."
+    },
+    {
+      "question": "What was the guiding principle of Johnson & Johnson’s communication during the crisis?",
+      "answer": "Transparency and prioritizing consumer safety."
+    },
+    {
+      "question": "What innovative safety measure did Johnson & Johnson introduce after the crisis?",
+      "answer": "Tamper-proof packaging (triple-seal)."
+    },
+    {
+      "question": "Why is Johnson & Johnson’s Tylenol crisis response considered a benchmark?",
+      "answer": "It set global standards for ethical and effective crisis communication."
+    },
+    {
+      "question": "What was the impact of Johnson & Johnson’s quick action on public trust?",
+      "answer": "It restored consumer confidence in the brand."
+    },
+    {
+      "question": "Which communication strategy did J&J use to keep the public informed?",
+      "answer": "Clear, consistent, and transparent updates through media channels."
+    },
+    {
+      "question": "How did Johnson & Johnson balance financial loss with reputation management?",
+      "answer": "They accepted short-term losses to protect long-term trust."
+    },
+    {
+      "question": "What industry-wide change followed Johnson & Johnson’s crisis response?",
+      "answer": "The adoption of tamper-proof packaging as a safety standard."
+    },
+    {
+      "question": "What key lesson did businesses learn from Johnson & Johnson’s response?",
+      "answer": "Prioritize consumer safety and transparency over profits during a crisis."
+    },
+    {
+      "question": "What role did innovation play in Johnson & Johnson’s recovery?",
+      "answer": "It turned a crisis into an opportunity by introducing safer packaging."
+    },
+    {
+      "question": "How did Johnson & Johnson’s actions affect its reputation in the long term?",
+      "answer": "The brand emerged stronger, with enhanced trust and credibility."
+    },
+    {
+      "question": "Which model of communication best represents J&J’s response?",
+      "answer": "Two-way communication with stakeholders, emphasizing feedback and updates."
+    },
+    {
+      "question": "How did the Tylenol crisis influence corporate crisis management practices?",
+      "answer": "It became a textbook example for handling crises ethically and effectively."
+    },
+    {
+      "question": "What ethical value was at the core of Johnson & Johnson’s response?",
+      "answer": "Placing customer health and safety above profit."
+    }
+  ],
+  "source_file_hi": "",
+  "flashcards_hi": [],
+  "flashcard_count": 15
+}
+
+  
   }

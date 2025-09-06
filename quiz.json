@@ -74,81 +74,243 @@
       }
     ]
   },
-  "12" : {
-  
-    "title": "Business Communication Fundamentals Quiz",
-    "description":
-      "Test your knowledge of essential business communication concepts",
-    "timeLimit": 600,
-    "passingScore": 70,
-    "questions": [
-      {
-        "id": 1,
-        "question":
-          "What percentage of communication effectiveness comes from body language?",
-        "options": ["25%", "35%", "55%", "75%"],
-        "correctAnswer": 2,
-        "explanation":
-          "Research shows that 55% of communication effectiveness comes from body language and non-verbal cues."
-      },
-      {
-        "id": 2,
-        "question":
-          "Which of the following is NOT a key principle of effective business writing?",
-        "options": [
-          "Clarity and conciseness",
-          "Using complex vocabulary to sound professional",
-          "Audience-focused content",
-          "Proper structure and organization"
-        ],
-        "correctAnswer": 1,
-        "explanation":
-          "Effective business writing should use clear, simple language rather than complex vocabulary."
-      },
-      {
-        "id": 3,
-        "question":
-          "What is the primary purpose of active listening in business communication?",
-        "options": [
-          "To prepare your counter-arguments",
-          "To understand the speaker's message completely",
-          "To demonstrate your expertise",
-          "To identify flaws in the speaker's logic"
-        ],
-        "correctAnswer": 1,
-        "explanation":
-          "Active listening focuses on fully understanding the speaker's message, emotions, and intentions."
-      },
-      {
-        "id": 4,
-        "question":
-          "In email communication, what should be the maximum recommended length of a subject line?",
-        "options": [
-          "5-10 words",
-          "15-20 words",
-          "25-30 words",
-          "No limit needed"
-        ],
-        "correctAnswer": 0,
-        "explanation":
-          "Email subject lines should be concise (5-10 words) to ensure they display fully on mobile devices."
-      },
-      {
-        "id": 5,
-        "question":
-          "Which communication model best represents modern digital business communication?",
-        "options": [
-          "Linear model",
-          "Interactive model",
-          "Transactional model",
-          "Shannon-Weaver model"
-        ],
-        "correctAnswer": 2,
-        "explanation":
-          "The transactional model recognizes that communication is simultaneous, contextual, and influenced by multiple factors."
-      }
-    ]
-  }
+"12": {
+  "title": "Written Communication Fundamentals Quiz",
+  "description": "Test your knowledge of the principles and practices of effective written communication.",
+  "timeLimit": 600,
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question":
+        "What is the primary objective of written communication in a business context?",
+      "options": [
+        "To use complex vocabulary",
+        "To ensure clarity and accurate message delivery",
+        "To impress the reader with length",
+        "To replace face-to-face interactions"
+      ],
+      "correctAnswer": 1,
+      "explanation":
+        "The goal of written communication is to convey information clearly, accurately, and effectively."
+    },
+    {
+      "id": 2,
+      "question":
+        "Which of the following is considered a key principle of effective written communication?",
+      "options": [
+        "Ambiguity",
+        "Clarity and conciseness",
+        "Excessive detail",
+        "Frequent use of jargon"
+      ],
+      "correctAnswer": 1,
+      "explanation":
+        "Clarity and conciseness are essential in written communication to ensure the message is easily understood."
+    },
+    {
+      "id": 3,
+      "question":
+        "What should be the tone of professional written communication?",
+      "options": [
+        "Informal and casual",
+        "Aggressive and commanding",
+        "Polite and respectful",
+        "Humorous and entertaining"
+      ],
+      "correctAnswer": 2,
+      "explanation":
+        "Professional written communication should be polite, respectful, and audience-appropriate."
+    },
+    {
+      "id": 4,
+      "question":
+        "Why is proper grammar and punctuation important in written communication?",
+      "options": [
+        "It makes the text look longer",
+        "It avoids misunderstandings and enhances credibility",
+        "It allows creative expression",
+        "It reduces the need for proofreading"
+      ],
+      "correctAnswer": 1,
+      "explanation":
+        "Correct grammar and punctuation ensure clarity, prevent confusion, and strengthen professional credibility."
+    },
+    {
+      "id": 5,
+      "question":
+        "Which of the following best describes the importance of proofreading in written communication?",
+      "options": [
+        "It helps reduce the word count",
+        "It ensures accuracy and professionalism",
+        "It makes the document more decorative",
+        "It guarantees a persuasive tone"
+      ],
+      "correctAnswer": 1,
+      "explanation":
+        "Proofreading ensures accuracy, eliminates errors, and maintains professionalism in written communication."
+    }
+  ]
+},
+
+  "13": {
+  "title": "Apple's Brand Communication Strategy Quiz",
+  "description": "Test your understanding of Apple's iconic brand communication principles and practices.",
+  "timeLimit": 600,
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question":
+        "What is the core element of Apple’s brand communication strategy?",
+      "options": [
+        "Technical specifications",
+        "Minimalism and simplicity",
+        "Frequent price promotions",
+        "Celebrity endorsements"
+      ],
+      "correctAnswer": 1,
+      "explanation":
+        "Apple’s communication emphasizes minimalism and simplicity, focusing on lifestyle and emotional appeal rather than technical jargon."
+    },
+    {
+      "id": 2,
+      "question":
+        "Which of the following best describes Apple’s approach to advertising?",
+      "options": [
+        "Highlighting every technical detail of products",
+        "Storytelling that emphasizes user experience",
+        "Aggressive price comparison with competitors",
+        "Heavy use of long written product descriptions"
+      ],
+      "correctAnswer": 1,
+      "explanation":
+        "Apple uses storytelling to connect emotionally, highlighting lifestyle and user experience rather than specs."
+    },
+    {
+      "id": 3,
+      "question":
+        "Apple Stores serve as more than just retail outlets. What role do they primarily play in Apple’s communication strategy?",
+      "options": [
+        "Warehouses for product storage",
+        "Advertising competitors’ products",
+        "Immersive brand experience hubs",
+        "Distribution centers for logistics"
+      ],
+      "correctAnswer": 2,
+      "explanation":
+        "Apple Stores are designed as immersive spaces where customers interact directly with the brand and its values."
+    },
+    {
+      "id": 4,
+      "question":
+        "What iconic Apple campaign reinforced its focus on creativity and innovation?",
+      "options": [
+        "Just Do It",
+        "Think Different",
+        "Because You're Worth It",
+        "Open Happiness"
+      ],
+      "correctAnswer": 1,
+      "explanation":
+        "The 'Think Different' campaign celebrated creativity and positioned Apple as a brand for innovators."
+    },
+    {
+      "id": 5,
+      "question":
+        "Why does Apple avoid overloading advertisements with technical jargon?",
+      "options": [
+        "Because Apple products lack features",
+        "To maintain secrecy about product details",
+        "To focus on lifestyle benefits and emotional connection",
+        "To reduce advertising costs"
+      ],
+      "correctAnswer": 2,
+      "explanation":
+        "Apple communicates lifestyle integration and emotional appeal, avoiding jargon to make messages more relatable."
+    }
+  ]
+},
+"14": {
+  "title": "Crisis Communication at Johnson & Johnson Quiz",
+  "description": "Test your knowledge of Johnson & Johnson’s crisis communication strategy during the Tylenol crisis and beyond.",
+  "timeLimit": 600,
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question":
+        "What major crisis led Johnson & Johnson to become a benchmark in crisis communication?",
+      "options": [
+        "Product pricing scandal",
+        "Tylenol cyanide poisoning incident",
+        "Patent infringement lawsuit",
+        "Factory fire accident"
+      ],
+      "correctAnswer": 1,
+      "explanation":
+        "The 1982 Tylenol cyanide poisoning incident prompted J&J to develop a model crisis communication strategy."
+    },
+    {
+      "id": 2,
+      "question":
+        "What was Johnson & Johnson’s first major step in responding to the Tylenol crisis?",
+      "options": [
+        "Blaming competitors",
+        "Massive recall of Tylenol bottles",
+        "Launching a marketing campaign",
+        "Ignoring the issue to avoid panic"
+      ],
+      "correctAnswer": 1,
+      "explanation":
+        "Johnson & Johnson immediately recalled Tylenol bottles nationwide to prioritize consumer safety."
+    },
+    {
+      "id": 3,
+      "question":
+        "Which principle guided Johnson & Johnson’s communication during the crisis?",
+      "options": [
+        "Profit maximization",
+        "Denial and deflection",
+        "Transparency and consumer safety first",
+        "Legal protection above all"
+      ],
+      "correctAnswer": 2,
+      "explanation":
+        "The company communicated with full transparency and prioritized consumer safety, rebuilding public trust."
+    },
+    {
+      "id": 4,
+      "question":
+        "What innovation did Johnson & Johnson introduce after the Tylenol crisis to restore trust?",
+      "options": [
+        "Discount coupons",
+        "Celebrity endorsements",
+        "Tamper-proof packaging",
+        "Extended product warranties"
+      ],
+      "correctAnswer": 2,
+      "explanation":
+        "J&J introduced tamper-proof packaging (triple-seal) as a safety measure that later became an industry standard."
+    },
+    {
+      "id": 5,
+      "question":
+        "What is the key lesson businesses learned from Johnson & Johnson’s crisis communication?",
+      "options": [
+        "Focus on minimizing media coverage",
+        "Protect brand image at all costs",
+        "Prioritize consumer safety and transparency",
+        "Delay response until all facts are confirmed"
+      ],
+      "correctAnswer": 2,
+      "explanation":
+        "The case taught businesses the importance of quick, transparent, and consumer-focused crisis communication."
+    }
+  ]
+}
+
+
 
 }
 
