@@ -11,7 +11,7 @@
         "id": 1,
         "question":
           "What percentage of communication effectiveness comes from body language?",
-        "options": ["25%", "35%", "55%", "75%"],
+        "options": ["25%", "35%", "55%", "85%"],
         "correctAnswer": 2,
         "explanation":
           "Research shows that 55% of communication effectiveness comes from body language and non-verbal cues."
