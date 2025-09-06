@@ -530,7 +530,196 @@
   "difficulty_mr": "मध्यम",
   "completionRate": 93,
   "language": "English"
-}
+},
+
+
+
+
+"15": {
+  "title_en": "Email Writing Best Practices",
+  "title_hi": "ईमेल लेखन के सर्वोत्तम अभ्यास",
+  "title_mr": "ईमेल लेखन सर्वोत्तम सराव",
+  "summary_en":
+    "Effective email writing is essential for professional communication. Clear structure, concise language, and proper etiquette ensure that messages are understood, respectful, and actionable.",
+  "summary_hi":
+    "प्रभावी ईमेल लेखन पेशेवर संचार के लिए आवश्यक है। स्पष्ट संरचना, संक्षिप्त भाषा, और उचित शिष्टाचार यह सुनिश्चित करते हैं कि संदेश समझे जाएं, सम्मानजनक हों, और क्रियान्वित किए जा सकें।",
+  "summary_mr":
+    "प्रभावी ईमेल लेखन व्यावसायिक संवादासाठी आवश्यक आहे. स्पष्ट रचना, संक्षिप्त भाषा, आणि योग्य शिष्टाचार यामुळे संदेश समजले जातात, आदरयुक्त असतात, आणि क्रियान्वित केले जाऊ शकतात.",
+  "keyPoints_en": [
+    "Use clear and concise subject lines to set expectations",
+    "Maintain a professional tone tailored to the audience",
+    "Keep emails brief, structured, and focused on key points",
+    "Use proper formatting: greetings, paragraphs, and polite closings",
+    "Proofread for grammar, spelling, and clarity before sending"
+  ],
+
+  "keyPoints_hi": [
+    "उम्मीदें सेट करने के लिए स्पष्ट और संक्षिप्त विषय पंक्तियों का उपयोग करें",
+    "दर्शकों के अनुसार पेशेवर टोन बनाए रखें",
+    "ईमेल को संक्षिप्त, संरचित, और मुख्य बिंदुओं पर केंद्रित रखें",
+    "उचित स्वरूपण का उपयोग करें: अभिवादन, पैराग्राफ, और विनम्र समापन",
+    "भेजने से पहले व्याकरण, वर्तनी, और स्पष्टता के लिए प्रूफरीड करें"
+  ],
+
+  "keyPoints_mr": [
+    "अपेक्षा सेट करण्यासाठी स्पष्ट आणि संक्षिप्त विषय ओळी वापरा",
+    "प्रेक्षकांनुसार व्यावसायिक टोन राखा",
+    "ईमेल संक्षिप्त, संरचित, आणि मुख्य मुद्द्यांवर लक्ष केंद्रित ठेवा",
+    "योग्य स्वरूपण वापरा: अभिवादन, परिच्छेद, आणि नम्र समापन",
+    "पाठवण्यापूर्वी व्याकरण, स्पेलिंग, आणि स्पष्टतेसाठी प्रूफरीड करा"
+  ],
+
+  "insights_en": [
+    "Over 70% of professionals consider subject lines the most important factor in opening emails",
+    "Concise emails are more likely to be read and acted upon quickly",
+    "Professional tone builds credibility and avoids misinterpretation",
+    "Formatting improves readability, especially for busy recipients",
+    "Polished, error-free emails reflect attention to detail and professionalism"
+  ],
+
+  "insights_hi": [
+    "70% से अधिक पेशेवर ईमेल खोलने में विषय पंक्तियों को सबसे महत्वपूर्ण कारक मानते हैं",
+    "संक्षिप्त ईमेल को जल्दी पढ़ा और क्रियान्वित किया जाने की संभावना अधिक होती है",
+    "पेशेवर टोन विश्वसनीयता बनाता है और गलत व्याख्या से बचाता है",
+    "स्वरूपण पठनीयता में सुधार करता है, विशेष रूप से व्यस्त प्राप्तकर्ताओं के लिए",
+    "पॉलिश्ड, त्रुटि-मुक्त ईमेल विवरण और पेशेवरता पर ध्यान दर्शाते हैं"
+  ],
+
+  "insights_mr": [
+    "70% पेक्षा जास्त व्यावसायिक ईमेल उघडण्यात विषय ओळीला सर्वात महत्त्वाचा घटक मानतात",
+    "संक्षिप्त ईमेल लवकर वाचल्या जातात आणि त्यावर कृती केली जाते",
+    "व्यावसायिक टोन विश्वासार्हता निर्माण करतो आणि चुकीच्या अर्थ लावण्यापासून वाचवतो",
+    "स्वरूपण वाचनक्षमता सुधारते, विशेषतः व्यस्त प्राप्तकर्त्यांसाठी",
+    "पॉलिश्ड, त्रुटी-मुक्त ईमेल तपशील आणि व्यावसायिकतेवर लक्ष दर्शवितात"
+  ],
+
+  "actionItems_en": [
+    "Write subject lines that summarize the main purpose of the email",
+    "Use bullet points or numbering to organize complex information",
+    "Adopt a tone that balances professionalism with approachability",
+    "Avoid jargon and overly long sentences to improve clarity",
+    "Always review the recipient list and attachments before hitting send"
+  ],
+
+  "actionItems_hi": [
+    "ईमेल के मुख्य उद्देश्य का सारांश प्रस्तुत करने वाली विषय पंक्तियाँ लिखें",
+    "जटिल जानकारी को व्यवस्थित करने के लिए बुलेट पॉइंट्स या नंबरिंग का उपयोग करें",
+    "पेशेवरता और सुलभता के बीच संतुलन बनाए रखने वाला टोन अपनाएं",
+    "स्पष्टता में सुधार के लिए जार्गन और अत्यधिक लंबी वाक्यांशों से बचें",
+    "भेजने से पहले हमेशा प्राप्तकर्ता सूची और अटैचमेंट की समीक्षा करें"
+  ],
+
+  "actionItems_mr": [
+    "ईमेलच्या मुख्य उद्देशाचा सारांश देणाऱ्या विषय ओळी लिहा",
+    "संकुल माहितीचे आयोजन करण्यासाठी बुलेट पॉइंट्स किंवा क्रमांक वापरा",
+    "व्यावसायिकता आणि सुलभतेमधील संतुलन राखणारा टोन स्वीकारा",
+    "स्पष्टतेत सुधारणा करण्यासाठी जार्गन आणि खूप लांब वाक्यांश टाळा",
+    "पाठवण्यापूर्वी नेहमी प्राप्तकर्ता यादी आणि संलग्नकांची समीक्षा करा"
+  ],
+
+  "readingTime_en": "4 min read",
+  "readingTime_hi": "4 मिनट पढ़ें",
+  "readingTime_mr": "४ मिनिटे वाचा",
+  "difficulty_en": "Beginner",
+  "difficulty_hi": "शुरुआती",
+  "difficulty_mr": "प्रारंभिक",
+  "completionRate": 97,
+  "language": "English"
+},
+
+
+"16": {
+  "title_en": "Presentation Design and Delivery",
+  "title_hi": "प्रस्तुति डिजाइन और डिलीवरी",
+  "title_mr": "प्रस्तुती डिझाइन आणि वितरण",
+  "summary_en":
+    "Creating and delivering impactful presentations requires thoughtful design, clear structure, and confident delivery. Effective presentations engage the audience, simplify complex information, and leave a lasting impression.",
+  "summary_hi":
+    "प्रभावशाली प्रस्तुतियाँ बनाने और देने के लिए विचारशील डिजाइन, स्पष्ट संरचना, और आत्मविश्वासी डिलीवरी की आवश्यकता होती है। प्रभावी प्रस्तुतियाँ दर्शकों को संलग्न करती हैं, जटिल जानकारी को सरल बनाती हैं, और एक स्थायी प्रभाव छोड़ती हैं।",
+  "summary_mr":
+    "प्रभावी प्रस्तुती तयार करणे आणि देणे विचारपूर्वक डिझाइन, स्पष्ट रचना, आणि आत्मविश्वासपूर्ण वितरण आवश्यक आहे. प्रभावी प्रस्तुती प्रेक्षकांना गुंतवतात, संकुल माहिती सोपी करतात, आणि एक दीर्घकालीन प्रभाव सोडतात.",
+  "keyPoints_en": [
+    "Plan presentations with a clear objective and audience in mind",
+    "Design slides with simplicity, readability, and visual appeal",
+    "Use storytelling techniques to connect with the audience",
+    "Practice delivery to build confidence and maintain flow",
+    "Engage the audience through interaction, eye contact, and pacing"
+  ],
+
+  "keyPoints_hi": [
+    "स्पष्ट उद्देश्य और दर्शकों को ध्यान में रखते हुए प्रस्तुतियों की योजना बनाएं",
+    "सरलता, पठनीयता, और दृश्य अपील के साथ स्लाइड डिजाइन करें",
+    "दर्शकों से जुड़ने के लिए कहानी कहने की तकनीकों का उपयोग करें",
+    "आत्मविश्वास बनाने और प्रवाह बनाए रखने के लिए डिलीवरी का अभ्यास करें",
+    "इंटरैक्शन, आंखों से संपर्क, और गति के माध्यम से दर्शकों को संलग्न करें"
+  ],
+
+  "keyPoints_mr": [
+    "स्पष्ट उद्देश आणि प्रेक्षक लक्षात घेऊन प्रस्तुतींची योजना तयार करा",
+    "साधेपणा, वाचनक्षमता, आणि दृश्य अपीलसह स्लाइड डिझाइन करा",
+    "प्रेक्षकांशी जोडण्यासाठी कथा सांगण्याच्या तंत्रांचा वापर करा",
+    "आत्मविश्वास निर्माण करण्यासाठी आणि प्रवाह राखण्यासाठी वितरणाचा सराव करा",
+    "परस्परसंवाद, डोळ्यांचा संपर्क, आणि गतीद्वारे प्रेक्षकांना गुंतवा"
+  ],
+
+  "insights_en": [
+    "Visual simplicity (minimal text, relevant visuals) enhances audience retention",
+    "Storytelling makes presentations more memorable and persuasive",
+    "Practicing aloud improves timing, confidence, and message clarity",
+    "Non-verbal communication (gestures, posture, tone) influences audience engagement",
+    "Audience interaction (questions, polls, examples) increases attentiveness"
+  ],
+
+  "insights_hi": [
+    "दृश्य सरलता (न्यूनतम पाठ, प्रासंगिक दृश्य) दर्शक प्रतिधारण को बढ़ाती है",
+    "कहानी कहने से प्रस्तुतियाँ अधिक यादगार और प्रभावशाली बनती हैं",
+    "जोर से अभ्यास करने से समय, आत्मविश्वास, और संदेश की स्पष्टता में सुधार होता है",
+    "गैर-मौखिक संचार (इशारे, मुद्रा, टोन) दर्शक सहभागिता को प्रभावित करता है",
+    "दर्शक इंटरैक्शन (प्रश्न, पोल, उदाहरण) जागरूकता बढ़ाता है"
+  ],
+
+  "insights_mr": [
+    "दृश्य साधेपणा (किमान मजकूर, संबंधित दृश्य) प्रेक्षकांच्या धारणेत सुधारणा करते",
+    "कथा सांगणे प्रस्तुती अधिक लक्षात राहणारी आणि प्रभावी बनवते",
+    "जोरात सराव केल्याने वेळ, आत्मविश्वास, आणि संदेशाची स्पष्टता सुधारते",
+    "अमौखिक संवाद (इशारे, पोझ, टोन) प्रेक्षकांच्या सहभागावर परिणाम करतो",
+    "प्रेक्षक संवाद (प्रश्न, मतदान, उदाहरणे) जागरूकता वाढवतो"
+  ],
+
+  "actionItems_en": [
+    "Limit slides to key points and use visuals to support your message",
+    "Apply consistent fonts, colors, and layouts for professional design",
+    "Structure presentations with an introduction, body, and conclusion",
+    "Rehearse multiple times and record yourself to refine delivery",
+    "Encourage questions and adapt to audience feedback in real-time"
+  ],
+
+  "actionItems_hi": [
+    "स्लाइड्स को मुख्य बिंदुओं तक सीमित रखें और अपने संदेश का समर्थन करने के लिए दृश्य का उपयोग करें",
+    "पेशेवर डिजाइन के लिए सुसंगत फोंट, रंग, और लेआउट लागू करें",
+    "प्रस्तुतियों को परिचय, मुख्य भाग, और निष्कर्ष के साथ संरचित करें",
+    "डिलीवरी को परिष्कृत करने के लिए कई बार अभ्यास करें और खुद को रिकॉर्ड करें",
+    "प्रश्नों को प्रोत्साहित करें और वास्तविक समय में दर्शक प्रतिक्रिया के अनुसार अनुकूलित करें"
+  ],
+
+  "actionItems_mr": [
+    "स्लाइड्सना मुख्य मुद्द्यांपुरते मर्यादित ठेवा आणि तुमच्या संदेशाला समर्थन देण्यासाठी दृश्यांचा वापर करा",
+    "व्यावसायिक डिझाइनसाठी सुसंगत फॉन्ट, रंग, आणि लेआउट लागू करा",
+    "प्रस्तुतींची रचना परिचय, मुख्य भाग, आणि निष्कर्ष यांच्यासह करा",
+    "वितरण सुधारण्यासाठी अनेक वेळा सराव करा आणि स्वतःला रेकॉर्ड करा",
+    "प्रश्नांना प्रोत्साहन द्या आणि वास्तविक वेळेत प्रेक्षकांच्या अभिप्रायानुसार अनुकूलित करा"
+  ],
+
+  "readingTime_en": "5 min read",
+  "readingTime_hi": "5 मिनट पढ़ें",
+  "readingTime_mr": "५ मिनिटे वाचा",
+  "difficulty_en": "Intermediate",
+  "difficulty_hi": "मध्यम",
+  "difficulty_mr": "मध्यम",
+  "completionRate": 95,
+  "language": "English"}
+
+
 
 
 
