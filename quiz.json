@@ -308,7 +308,145 @@
         "The case taught businesses the importance of quick, transparent, and consumer-focused crisis communication."
     }
   ]
+},
+"15": {
+  "title": "Email Writing Best Practices Quiz",
+  "description": "Test your knowledge of professional email writing principles, etiquette, and effective communication strategies.",
+  "timeLimit": 600,
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the ideal length of a professional email subject line?",
+      "options": [
+        "5-10 words",
+        "15-20 words",
+        "No limit, longer is better",
+        "Just one word"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A subject line should be short and clear (5–10 words) so it displays well on all devices and grabs attention."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following should be avoided in professional emails?",
+      "options": [
+        "Using a polite tone",
+        "Proofreading before sending",
+        "Using slang or informal language",
+        "Including a clear subject line"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Slang or overly casual language can reduce professionalism and clarity in business emails."
+    },
+    {
+      "id": 3,
+      "question": "Why is structuring an email with short paragraphs and bullet points effective?",
+      "options": [
+        "It makes the email longer",
+        "It improves readability and clarity",
+        "It hides important details",
+        "It makes the email look less formal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Breaking text into short sections improves readability, clarity, and ensures the recipient can quickly understand the message."
+    },
+    {
+      "id": 4,
+      "question": "What is the purpose of including a professional email signature?",
+      "options": [
+        "To increase email length",
+        "To provide contact details and build credibility",
+        "To avoid writing a closing statement",
+        "To make the email look more decorative"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A professional signature provides essential contact details, reinforces your role, and builds trust with the recipient."
+    },
+    {
+      "id": 5,
+      "question": "When should you use the 'Reply All' option in email communication?",
+      "options": [
+        "Whenever you reply to any email",
+        "Only when everyone in the thread needs to see your response",
+        "To make sure your response looks important",
+        "Never, it should always be avoided"
+      ],
+      "correctAnswer": 1,
+      "explanation": "‘Reply All’ should be used only when your response is relevant to the entire group, to avoid unnecessary clutter."
+    }
+  ]
+},
+"16": {
+  "title": "Presentation Design and Delivery Quiz",
+  "description": "Test your knowledge of effective presentation design principles and delivery techniques.",
+  "timeLimit": 600,
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a key principle of effective presentation slide design?",
+      "options": [
+        "Use as much text as possible",
+        "Simplicity and clarity",
+        "Adding multiple fonts and colors",
+        "Including long paragraphs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Effective slide design relies on simplicity and clarity to ensure the audience quickly grasps the message."
+    },
+    {
+      "id": 2,
+      "question": "Why is storytelling important in presentations?",
+      "options": [
+        "It makes slides look colorful",
+        "It helps engage the audience and make the message memorable",
+        "It reduces preparation time",
+        "It avoids the need for visuals"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Storytelling connects with emotions, keeps the audience engaged, and makes the content easier to remember."
+    },
+    {
+      "id": 3,
+      "question": "What should presenters avoid when designing slides?",
+      "options": [
+        "Using short bullet points",
+        "Overloading slides with text or cluttered visuals",
+        "Using relevant images",
+        "Maintaining consistent formatting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cluttered or text-heavy slides overwhelm the audience and distract from the core message."
+    },
+    {
+      "id": 4,
+      "question": "How can body language improve presentation delivery?",
+      "options": [
+        "By distracting the audience",
+        "By reinforcing the spoken message and building trust",
+        "By replacing the need for clear speech",
+        "By making the presentation longer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Positive body language reinforces verbal communication, builds trust, and enhances audience engagement."
+    },
+    {
+      "id": 5,
+      "question": "Why is practicing before delivering a presentation important?",
+      "options": [
+        "It helps reduce slides",
+        "It boosts confidence, ensures timing, and reduces nervousness",
+        "It makes the presenter look casual",
+        "It removes the need for audience interaction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Practice helps presenters gain confidence, stay within time limits, and minimize nervousness during delivery."
+    }
+  ]
 }
+
+
 
 
 

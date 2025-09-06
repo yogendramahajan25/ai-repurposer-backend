@@ -431,162 +431,204 @@
         "flashcards_hi": [],
         "flashcard_count": 25
       },
-    "13": {
+"13": {
   "source_file_en": "Apple's Brand Communication Strategy",
   "flashcards_en": [
     {
-      "question": "What is the core focus of Apple’s brand communication strategy?",
-      "answer": "Simplicity, minimalism, and emotional connection with customers."
+      "question": "What is a key element of Apple’s brand communication?",
+      "answer": "Simplicity in messaging and design."
     },
     {
-      "question": "How does Apple differentiate its communication from competitors?",
-      "answer": "By emphasizing lifestyle and experiences rather than technical specifications."
+      "question": "How does Apple create an emotional connection with its audience?",
+      "answer": "By focusing on lifestyle and innovation rather than technical details."
     },
     {
-      "question": "What iconic campaign reinforced Apple’s focus on creativity and innovation?",
-      "answer": "The 'Think Different' campaign."
+      "question": "What role do Apple product launches play in brand communication?",
+      "answer": "They act as major events that generate anticipation and media attention."
     },
     {
-      "question": "Why does Apple avoid overloading advertisements with technical jargon?",
-      "answer": "To make messages relatable and emphasize emotional benefits over product details."
+      "question": "How does Apple maintain consistency in its brand communication?",
+      "answer": "By using minimalistic visuals, clear messaging, and a unified brand voice."
     },
     {
-      "question": "What role do Apple Stores play in its brand communication strategy?",
-      "answer": "They act as immersive brand experience hubs where customers interact with products and values."
-    },
-    {
-      "question": "How does Apple use storytelling in its advertising?",
-      "answer": "By showcasing how products fit into and enhance everyday life."
-    },
-    {
-      "question": "What design principle is central to Apple’s product communication?",
-      "answer": "Minimalism in visuals, messaging, and product design."
-    },
-    {
-      "question": "How does Apple build trust and loyalty through communication?",
-      "answer": "By maintaining consistent messaging across all channels and prioritizing user experience."
-    },
-    {
-      "question": "What is the significance of Apple’s keynote events?",
-      "answer": "They serve as major brand communication moments, creating anticipation and global attention."
-    },
-    {
-      "question": "How does Apple position its products in communication campaigns?",
-      "answer": "As premium lifestyle essentials rather than just technology tools."
-    },
-    {
-      "question": "What emotion does Apple often associate with its brand communication?",
-      "answer": "Creativity, empowerment, and innovation."
-    },
-    {
-      "question": "How does Apple ensure consistency in its brand communication?",
-      "answer": "Through unified design, messaging, and tone across advertising, retail, and digital platforms."
-    },
-    {
-      "question": "What is Apple’s approach to social proof in communication?",
-      "answer": "Highlighting customer experiences and showcasing creative work done with Apple products."
-    },
-    {
-      "question": "Why are visuals so important in Apple’s brand communication?",
-      "answer": "Because visuals communicate simplicity, elegance, and product focus more effectively than words."
-    },
-    {
-      "question": "What role does minimal text play in Apple’s advertising?",
-      "answer": "It directs attention to the product and emotional message rather than distracting details."
-    },
-    {
-      "question": "How does Apple communicate innovation without explicitly stating it?",
-      "answer": "By demonstrating unique product features in real-life usage scenarios."
-    },
-    {
-      "question": "What is Apple’s brand personality as communicated to consumers?",
-      "answer": "Innovative, aspirational, minimalist, and customer-focused."
-    },
-    {
-      "question": "How do product launch events strengthen Apple’s brand communication?",
-      "answer": "They create hype, global media coverage, and reinforce Apple’s position as an industry leader."
-    },
-    {
-      "question": "What audience segment does Apple primarily target in its communication?",
-      "answer": "Creative professionals, innovators, and lifestyle-conscious consumers."
-    },
-    {
-      "question": "How does Apple use emotional branding?",
-      "answer": "By linking its products to creativity, self-expression, and human connection."
+      "question": "Why is storytelling important in Apple’s communication strategy?",
+      "answer": "It helps highlight user experiences and makes the brand more relatable."
     }
   ],
-  "source_file_hi": "",
-  "flashcards_hi": [],
-  "flashcard_count": 20
+  "source_file_hi": "एप्पल की ब्रांड संचार रणनीति",
+  "flashcards_hi": [
+    {
+      "question": "एप्पल के ब्रांड संचार का एक मुख्य तत्व क्या है?",
+      "answer": "संदेश और डिज़ाइन में सरलता।"
+    },
+    {
+      "question": "एप्पल अपने दर्शकों से भावनात्मक संबंध कैसे बनाता है?",
+      "answer": "जीवनशैली और नवाचार पर ध्यान केंद्रित करके, न कि केवल तकनीकी विवरणों पर।"
+    },
+    {
+      "question": "एप्पल के उत्पाद लॉन्च ब्रांड संचार में क्या भूमिका निभाते हैं?",
+      "answer": "वे बड़े आयोजनों की तरह कार्य करते हैं जो उत्सुकता और मीडिया का ध्यान आकर्षित करते हैं।"
+    },
+    {
+      "question": "एप्पल अपने ब्रांड संचार में निरंतरता कैसे बनाए रखता है?",
+      "answer": "न्यूनतम दृश्य, स्पष्ट संदेश और एकीकृत ब्रांड आवाज़ का उपयोग करके।"
+    },
+    {
+      "question": "एप्पल की संचार रणनीति में कहानी कहने का महत्व क्यों है?",
+      "answer": "यह उपयोगकर्ता अनुभव को उजागर करने में मदद करता है और ब्रांड को अधिक संबंधित बनाता है।"
+    }
+  ],
+  "flashcard_count": 5
 },
 "14": {
   "source_file_en": "Crisis Communication at Johnson & Johnson",
   "flashcards_en": [
     {
-      "question": "What major incident tested Johnson & Johnson’s crisis communication?",
-      "answer": "The 1982 Tylenol cyanide poisoning crisis."
+      "question": "What crisis did Johnson & Johnson face in 1982?",
+      "answer": "The Tylenol cyanide poisoning incident."
     },
     {
-      "question": "How did Johnson & Johnson respond immediately to the Tylenol crisis?",
-      "answer": "By recalling 31 million bottles of Tylenol nationwide."
+      "question": "How did Johnson & Johnson respond to the Tylenol crisis?",
+      "answer": "By recalling products nationwide and prioritizing customer safety."
     },
     {
-      "question": "What was the guiding principle of Johnson & Johnson’s communication during the crisis?",
-      "answer": "Transparency and prioritizing consumer safety."
+      "question": "What communication principle was demonstrated in J&J’s crisis response?",
+      "answer": "Transparency and honesty with the public."
     },
     {
-      "question": "What innovative safety measure did Johnson & Johnson introduce after the crisis?",
-      "answer": "Tamper-proof packaging (triple-seal)."
+      "question": "What long-term measure did J&J introduce after the crisis?",
+      "answer": "Tamper-proof packaging for medicines."
     },
     {
-      "question": "Why is Johnson & Johnson’s Tylenol crisis response considered a benchmark?",
-      "answer": "It set global standards for ethical and effective crisis communication."
-    },
-    {
-      "question": "What was the impact of Johnson & Johnson’s quick action on public trust?",
-      "answer": "It restored consumer confidence in the brand."
-    },
-    {
-      "question": "Which communication strategy did J&J use to keep the public informed?",
-      "answer": "Clear, consistent, and transparent updates through media channels."
-    },
-    {
-      "question": "How did Johnson & Johnson balance financial loss with reputation management?",
-      "answer": "They accepted short-term losses to protect long-term trust."
-    },
-    {
-      "question": "What industry-wide change followed Johnson & Johnson’s crisis response?",
-      "answer": "The adoption of tamper-proof packaging as a safety standard."
-    },
-    {
-      "question": "What key lesson did businesses learn from Johnson & Johnson’s response?",
-      "answer": "Prioritize consumer safety and transparency over profits during a crisis."
-    },
-    {
-      "question": "What role did innovation play in Johnson & Johnson’s recovery?",
-      "answer": "It turned a crisis into an opportunity by introducing safer packaging."
-    },
-    {
-      "question": "How did Johnson & Johnson’s actions affect its reputation in the long term?",
-      "answer": "The brand emerged stronger, with enhanced trust and credibility."
-    },
-    {
-      "question": "Which model of communication best represents J&J’s response?",
-      "answer": "Two-way communication with stakeholders, emphasizing feedback and updates."
-    },
-    {
-      "question": "How did the Tylenol crisis influence corporate crisis management practices?",
-      "answer": "It became a textbook example for handling crises ethically and effectively."
-    },
-    {
-      "question": "What ethical value was at the core of Johnson & Johnson’s response?",
-      "answer": "Placing customer health and safety above profit."
+      "question": "Why is J&J’s crisis communication considered a model example?",
+      "answer": "Because it rebuilt trust and protected the company’s reputation."
     }
   ],
-  "source_file_hi": "",
-  "flashcards_hi": [],
-  "flashcard_count": 15
+  "source_file_hi": "जॉनसन एंड जॉनसन में संकट संचार",
+  "flashcards_hi": [
+    {
+      "question": "1982 में जॉनसन एंड जॉनसन को किस संकट का सामना करना पड़ा?",
+      "answer": "टायलेनॉल साइनाइड ज़हर की घटना।"
+    },
+    {
+      "question": "जॉनसन एंड जॉनसन ने टायलेनॉल संकट पर कैसे प्रतिक्रिया दी?",
+      "answer": "पूरे देश में उत्पादों को वापस बुलाकर और ग्राहक सुरक्षा को प्राथमिकता देकर।"
+    },
+    {
+      "question": "J&J की संकट प्रतिक्रिया में कौन सा संचार सिद्धांत प्रदर्शित हुआ?",
+      "answer": "जनता के साथ पारदर्शिता और ईमानदारी।"
+    },
+    {
+      "question": "संकट के बाद J&J ने कौन सा दीर्घकालिक कदम उठाया?",
+      "answer": "दवाओं के लिए छेड़छाड़-रोधी पैकेजिंग।"
+    },
+    {
+      "question": "J&J का संकट संचार एक आदर्श उदाहरण क्यों माना जाता है?",
+      "answer": "क्योंकि इससे विश्वास दोबारा बना और कंपनी की प्रतिष्ठा सुरक्षित रही।"
+    }
+  ],
+  "flashcard_count": 5
+},
+"15": {
+  "source_file_en": "Email Writing Best Practices",
+  "flashcards_en": [
+    {
+      "question": "What is the purpose of a subject line in an email?",
+      "answer": "To summarize the main purpose of the email and set expectations."
+    },
+    {
+      "question": "Why should emails be concise?",
+      "answer": "Concise emails are easier to read, understand, and act upon quickly."
+    },
+    {
+      "question": "What tone should be used in professional emails?",
+      "answer": "Polite, respectful, and audience-appropriate."
+    },
+    {
+      "question": "Why is proofreading important before sending an email?",
+      "answer": "It ensures accuracy, professionalism, and prevents miscommunication."
+    },
+    {
+      "question": "How can formatting improve email communication?",
+      "answer": "Using greetings, short paragraphs, and bullet points improves readability."
+    }
+  ],
+  "source_file_hi": "ईमेल लेखन सर्वोत्तम अभ्यास",
+  "flashcards_hi": [
+    {
+      "question": "ईमेल में विषय पंक्ति (Subject line) का उद्देश्य क्या है?",
+      "answer": "ईमेल का मुख्य उद्देश्य बताना और अपेक्षाएँ निर्धारित करना।"
+    },
+    {
+      "question": "ईमेल संक्षिप्त क्यों होना चाहिए?",
+      "answer": "संक्षिप्त ईमेल पढ़ने, समझने और उस पर जल्दी कार्य करने में आसान होते हैं।"
+    },
+    {
+      "question": "पेशेवर ईमेल में किस प्रकार का स्वर होना चाहिए?",
+      "answer": "विनम्र, सम्मानजनक और श्रोताओं के अनुरूप।"
+    },
+    {
+      "question": "ईमेल भेजने से पहले प्रूफरीडिंग क्यों महत्वपूर्ण है?",
+      "answer": "यह सटीकता, पेशेवरता सुनिश्चित करता है और गलतफहमी को रोकता है।"
+    },
+    {
+      "question": "ईमेल संचार में स्वरूपण (Formatting) कैसे मदद करता है?",
+      "answer": "नमस्ते, छोटे पैराग्राफ और बुलेट पॉइंट्स का उपयोग पढ़ने में आसानी लाता है।"
+    }
+  ],
+  "flashcard_count": 5
+},
+"16": {
+  "source_file_en": "Presentation Design and Delivery",
+  "flashcards_en": [
+    {
+      "question": "What is a key principle of effective presentation design?",
+      "answer": "Simplicity and clarity in visuals and content."
+    },
+    {
+      "question": "Why is storytelling important in presentations?",
+      "answer": "It engages the audience and makes the message memorable."
+    },
+    {
+      "question": "What should be avoided in slide design?",
+      "answer": "Overloading slides with text or cluttered visuals."
+    },
+    {
+      "question": "How can body language improve presentation delivery?",
+      "answer": "It reinforces the spoken message and builds audience trust."
+    },
+    {
+      "question": "What is the importance of practicing before delivering a presentation?",
+      "answer": "It boosts confidence, ensures timing, and reduces nervousness."
+    }
+  ],
+  "source_file_hi": "प्रस्तुति डिज़ाइन और प्रस्तुति कौशल",
+  "flashcards_hi": [
+    {
+      "question": "प्रभावी प्रस्तुति डिज़ाइन का एक मुख्य सिद्धांत क्या है?",
+      "answer": "दृश्य और सामग्री में सरलता और स्पष्टता।"
+    },
+    {
+      "question": "प्रस्तुतियों में कहानी कहने का महत्व क्यों है?",
+      "answer": "यह दर्शकों को जोड़ता है और संदेश को यादगार बनाता है।"
+    },
+    {
+      "question": "स्लाइड डिज़ाइन में क्या चीज़ें टालनी चाहिए?",
+      "answer": "पाठ का अत्यधिक प्रयोग या अव्यवस्थित दृश्य।"
+    },
+    {
+      "question": "शारीरिक भाषा प्रस्तुति को कैसे बेहतर बना सकती है?",
+      "answer": "यह बोले गए संदेश को मजबूत करती है और दर्शकों का विश्वास बढ़ाती है।"
+    },
+    {
+      "question": "प्रस्तुति देने से पहले अभ्यास करना क्यों ज़रूरी है?",
+      "answer": "यह आत्मविश्वास बढ़ाता है, समय प्रबंधन सुनिश्चित करता है और घबराहट कम करता है।"
+    }
+  ],
+  "flashcard_count": 5
 }
+
+
 
   
   }
