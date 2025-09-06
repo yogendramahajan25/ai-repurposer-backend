@@ -1,0 +1,77 @@
+{
+    "11" : {
+  
+    "title": "Business Communication Fundamentals Quiz",
+    "description":
+      "Test your knowledge of essential business communication concepts",
+    "timeLimit": 600,
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": 1,
+        "question":
+          "What percentage of communication effectiveness comes from body language?",
+        "options": ["25%", "35%", "55%", "75%"],
+        "correctAnswer": 2,
+        "explanation":
+          "Research shows that 55% of communication effectiveness comes from body language and non-verbal cues."
+      },
+      {
+        "id": 2,
+        "question":
+          "Which of the following is NOT a key principle of effective business writing?",
+        "options": [
+          "Clarity and conciseness",
+          "Using complex vocabulary to sound professional",
+          "Audience-focused content",
+          "Proper structure and organization"
+        ],
+        "correctAnswer": 1,
+        "explanation":
+          "Effective business writing should use clear, simple language rather than complex vocabulary."
+      },
+      {
+        "id": 3,
+        "question":
+          "What is the primary purpose of active listening in business communication?",
+        "options": [
+          "To prepare your counter-arguments",
+          "To understand the speaker's message completely",
+          "To demonstrate your expertise",
+          "To identify flaws in the speaker's logic"
+        ],
+        "correctAnswer": 1,
+        "explanation":
+          "Active listening focuses on fully understanding the speaker's message, emotions, and intentions."
+      },
+      {
+        "id": 4,
+        "question":
+          "In email communication, what should be the maximum recommended length of a subject line?",
+        "options": [
+          "5-10 words",
+          "15-20 words",
+          "25-30 words",
+          "No limit needed"
+        ],
+        "correctAnswer": 0,
+        "explanation":
+          "Email subject lines should be concise (5-10 words) to ensure they display fully on mobile devices."
+      },
+      {
+        "id": 5,
+        "question":
+          "Which communication model best represents modern digital business communication?",
+        "options": [
+          "Linear model",
+          "Interactive model",
+          "Transactional model",
+          "Shannon-Weaver model"
+        ],
+        "correctAnswer": 2,
+        "explanation":
+          "The transactional model recognizes that communication is simultaneous, contextual, and influenced by multiple factors."
+      }
+    ]
+  }}
+
