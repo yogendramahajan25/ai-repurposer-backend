@@ -1,0 +1,107 @@
+{
+  "11": {
+    "title": "Business Communication Fundamentals",
+    "summaryEnglish": "Master the essential principles of effective business communication in modern corporate environments.",
+    "summaryHindi": "आधुनिक कॉर्पोरेट वातावरण में प्रभावी व्यावसायिक संचार के आवश्यक सिद्धांतों में महारत हासिल करें।",
+    "keyPoints": [
+      "Develop clear and concise written communication skills",
+      "Master verbal communication techniques for presentations",
+      "Understand non-verbal communication and body language",
+      "Learn digital communication etiquette and best practices",
+      "Practice active listening and feedback mechanisms"
+    ],
+    "insights": [
+      "Effective communication increases team productivity by 30%",
+      "Written communication accounts for 70% of business interactions",
+      "Non-verbal cues convey 55% of communication meaning"
+    ],
+    "actionItems": [
+      "Practice daily email writing with clear subject lines",
+      "Join public speaking groups like Toastmasters",
+      "Record yourself presenting to improve delivery",
+      "Implement the STAR method for structured responses"
+    ],
+    "readingTime": "3 min read",
+    "difficulty": "Beginner",
+    "completionRate": 95},
+  "12": {
+    "title": "Time Management Strategies",
+    "summaryEnglish": "Learn proven techniques to prioritize tasks and manage time effectively for maximum productivity.",
+    "summaryHindi": "अधिकतम उत्पादकता के लिए कार्यों को प्राथमिकता देने और समय का प्रभावी प्रबंधन करने की सिद्ध तकनीकें सीखें।",
+    "keyPoints": [
+      "Apply the Eisenhower Matrix for task prioritization",
+      "Use the Pomodoro Technique for focused work sessions",
+      "Eliminate time-wasting habits and distractions",
+      "Plan weekly and daily schedules effectively",
+      "Balance work, rest, and learning for sustainable productivity"
+    ],
+    "insights": [
+      "People waste up to 20% of work hours due to poor planning",
+      "Time blocking can increase focus by 40%",
+      "Short breaks improve long-term concentration"
+    ],
+    "actionItems": [
+      "Create a daily to-do list with priorities",
+      "Set timers for 25-minute Pomodoro sessions",
+      "Review weekly goals every Sunday evening",
+      "Track time spent using productivity apps"
+    ],
+    "readingTime": "4 min read",
+    "difficulty": "Intermediate",
+    "completionRate": 90,
+    "language": "English"},
+  "21": {
+    "title": "Emotional Intelligence at Work",
+    "summaryEnglish": "Understand and apply emotional intelligence skills to build stronger workplace relationships and leadership qualities.",
+    "summaryHindi": "मजबूत कार्यस्थल संबंध और नेतृत्व गुण बनाने के लिए भावनात्मक बुद्धिमत्ता कौशल को समझें और लागू करें।",
+    "keyPoints": [
+      "Recognize and manage your own emotions",
+      "Develop empathy towards colleagues",
+      "Enhance conflict resolution abilities",
+      "Improve leadership with self-awareness",
+      "Promote positive workplace culture"
+    ],
+    "insights": [
+      "High EQ leaders have 70% more engaged teams",
+      "Employees with strong EQ handle stress 50% better",
+      "EQ is a stronger predictor of success than IQ"
+    ],
+    "actionItems": [
+      "Practice daily mindfulness for emotional regulation",
+      "Journal situations that trigger strong emotions",
+      "Seek feedback from peers on communication style",
+      "Attend workshops on empathy and collaboration"
+    ],
+    "readingTime": "5 min read",
+    "difficulty": "Intermediate",
+    "completionRate": 88,
+    "language": "English"},
+  "22": {
+    "title": "Critical Thinking Skills",
+    "summaryEnglish": "Enhance your ability to analyze, evaluate, and make logical decisions in complex business scenarios.",
+    "summaryHindi": "जटिल व्यावसायिक परिदृश्यों में विश्लेषण, मूल्यांकन और तार्किक निर्णय लेने की क्षमता बढ़ाएं।",
+    "keyPoints": [
+      "Identify assumptions and biases",
+      "Strengthen logical reasoning skills",
+      "Evaluate multiple perspectives before decisions",
+      "Apply structured problem-solving techniques",
+      "Improve innovation through critical questioning"
+    ],
+    "insights": [
+      "Critical thinkers reduce decision-making errors by 60%",
+      "Businesses with critical thinking training see 25% faster problem resolution",
+      "Analytical skills are among the top 5 skills employers seek"
+    ],
+    "actionItems": [
+      "Challenge one assumption in every project",
+      "Practice root cause analysis (5 Whys method)",
+      "Debate business case studies with peers",
+      "Take online critical thinking assessments"
+    ],
+    "readingTime": "6 min read",
+    "difficulty": "Advanced",
+    "completionRate": 82,
+    "language": "English"}
+}
+
+
