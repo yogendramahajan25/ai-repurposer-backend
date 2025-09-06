@@ -359,3 +359,18 @@ def get_podcast_by_id(item_id: str):
     if item_id not in data:
         raise HTTPException(status_code=404, detail="Podcast not found")
     return data[item_id]
+
+@app.get("/flashcard/{item_id}")
+def get_flashcard_by_id(item_id: str):
+    # Path to the JSON file (adjust as needed)
+    json_path = pathlib.Path(__file__).parent / "flashcards.json"
+    if not json_path.exists():
+        raise HTTPException(status_code=404, detail="Flashcard database not found")
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    if item_id not in data:
+        raise HTTPException(status_code=404, detail="Flashcard not found")
+    # Return the full JSON object for the given id
+    return data[item_id]
+
+
