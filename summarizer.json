@@ -1,107 +1,349 @@
 {
   "11": {
-    "title": "Business Communication Fundamentals",
-    "summaryEnglish": "Master the essential principles of effective business communication in modern corporate environments.",
-    "summaryHindi": "आधुनिक कॉर्पोरेट वातावरण में प्रभावी व्यावसायिक संचार के आवश्यक सिद्धांतों में महारत हासिल करें।",
-    "keyPoints": [
-      "Develop clear and concise written communication skills",
-      "Master verbal communication techniques for presentations",
-      "Understand non-verbal communication and body language",
-      "Learn digital communication etiquette and best practices",
-      "Practice active listening and feedback mechanisms"
-    ],
-    "insights": [
-      "Effective communication increases team productivity by 30%",
-      "Written communication accounts for 70% of business interactions",
-      "Non-verbal cues convey 55% of communication meaning"
-    ],
-    "actionItems": [
-      "Practice daily email writing with clear subject lines",
-      "Join public speaking groups like Toastmasters",
-      "Record yourself presenting to improve delivery",
-      "Implement the STAR method for structured responses"
-    ],
-    "readingTime": "3 min read",
-    "difficulty": "Beginner",
-    "completionRate": 95},
+  "title_en": "Fundamentals of Communication",
+  "title_hi": "संचार के मूल तत्व",
+  "title_mr": "संवादाची मूलतत्त्वे",
+  "summary_en":
+    "Explore the meaning, definitions, nature, scope, types, and principles of communication, the foundation of human and organizational interaction.",
+  "summary_hi":
+    "संचार का अर्थ, परिभाषाएँ, प्रकृति, दायरा, प्रकार, और सिद्धांतों का अन्वेषण करें, जो मानव और संगठनात्मक बातचीत की नींव है।",
+  "summary_mr":
+    "संवादाचा अर्थ, व्याख्या, स्वरूप, व्याप्ती, प्रकार, आणि तत्त्वे यांचा शोध घ्या, जे मानवी आणि संस्थात्मक संवादाची पाया आहे.",
+  "keyPoints_en": [
+    "Understand the meaning and origin of communication",
+    "Learn scholarly definitions of communication",
+    "Explore the nature and scope of communication",
+    "Identify different types of communication (verbal, non-verbal, visual, etc.)",
+    "Apply key principles for effective communication"
+  ],
+  "keyPoints_hi": [
+    "संचार का अर्थ और उत्पत्ति समझें",
+    "संचार की विद्वतापूर्ण परिभाषाएँ सीखें",
+    "संचार की प्रकृति और दायरे का अन्वेषण करें",
+    "संचार के विभिन्न प्रकारों की पहचान करें (मौखिक, गैर-मौखिक, दृश्य, आदि)",
+    "प्रभावी संचार के लिए प्रमुख सिद्धांतों को लागू करें"
+  ],
+  "keyPoints_mr": [
+    "संवादाचा अर्थ आणि उत्पत्ती समजून घ्या",
+    "संवादाच्या विद्वत्तापूर्ण व्याख्या शिका",
+    "संवादाच्या स्वरूप आणि व्याप्तीचा शोध घ्या",
+    "संवादाचे विविध प्रकार ओळखा (मौखिक, अमौखिक, दृश्य, इत्यादी)",
+    "प्रभावी संवादासाठी मुख्य तत्त्वे लागू करा"
+  ],
+  "insights_en": [
+    "Communication originates from the Latin word 'communicare' meaning 'to share'",
+    "Effective communication requires a sender, receiver, and a clear message",
+    "Non-verbal cues such as body language and tone often strengthen or alter meaning",
+    "Organizations rely on communication for coordination and functioning",
+    "Minimalism and clarity are essential principles in professional communication"
+  ],
+  "insights_hi": [
+    "संचार लैटिन शब्द 'communicare' से उत्पन्न हुआ है, जिसका अर्थ है 'साझा करना'",
+    "प्रभावी संचार के लिए एक प्रेषक, प्राप्तकर्ता, और एक स्पष्ट संदेश आवश्यक है",
+    "गैर-मौखिक संकेत जैसे शारीरिक भाषा और स्वर अक्सर अर्थ को मजबूत या बदलते हैं",
+    "संगठन समन्वय और कार्यप्रणाली के लिए संचार पर निर्भर करते हैं",
+    "पेशेवर संचार में न्यूनतावाद और स्पष्टता आवश्यक सिद्धांत हैं"
+  ],
+  "insights_mr": [
+    "संवादाचा उगम लॅटिन शब्द 'communicare' पासून झाला आहे, ज्याचा अर्थ 'सामायिक करणे' आहे",
+    "प्रभावी संवादासाठी एक प्रेषक, प्राप्तकर्ता, आणि एक स्पष्ट संदेश आवश्यक आहे",
+    "अमौखिक संकेत जसे की शरीरभाषा आणि स्वर अनेकदा अर्थाला बळकट करतात किंवा बदलतात",
+    "संस्था समन्वय आणि कार्यप्रणालीसाठी संवादावर अवलंबून असतात",
+    "व्यावसायिक संवादात  न्यूनतावाद आणि स्पष्टता आवश्यक तत्त्वे आहेत"
+  ],
+  "actionItems_en": [
+    "Practice delivering messages using both verbal and non-verbal cues",
+    "Use visuals (charts, images, diagrams) to reinforce complex ideas",
+    "Set clear objectives before initiating communication",
+    "Embrace minimalism by keeping messages concise and organized",
+    "Improve cross-cultural awareness for better global communication"
+  ],  
+  "actionItems_hi": [
+    "मौखिक और गैर-मौखिक संकेतों का उपयोग करके संदेश देने का अभ्यास करें",
+    "जटिल विचारों को मजबूत करने के लिए दृश्य (चार्ट, चित्र, आरेख) का उपयोग करें",
+    "संचार शुरू करने से पहले स्पष्ट उद्देश्य निर्धारित करें",
+    "संदेशों को संक्षिप्त और संगठित रखकर न्यूनतावाद को अपनाएं",
+    "बेहतर वैश्विक संचार के लिए अंतर-सांस्कृतिक जागरूकता में सुधार करें"
+  ],
+  "actionItems_mr": [
+    "मौखिक आणि अमौखिक संकेतांचा वापर करून संदेश देण्याचा सराव करा",
+    "जटिल कल्पना बळकट करण्यासाठी दृश्ये (चार्ट, प्रतिमा, आकृती) वापरा",
+    "संवाद सुरू करण्यापूर्वी स्पष्ट उद्दिष्टे सेट करा",
+    "संदेश संक्षिप्त आणि संघटित ठेवून न्यूनतावाद स्वीकारा",
+    "चांगल्या जागतिक संवादासाठी आंतर-सांस्कृतिक जागरूकतेत सुधारणा करा"
+  ],
+  "readingTime_en": "5 min read", 
+  "readingTime_hi": "5 मिनट पढ़ें",
+  "readingTime_mr": "५ मिनिटे वाचा",
+  "difficulty_en": "Beginner",
+  "difficulty_hi": "शुरुआती",
+  "difficulty_mr": "प्रारंभिक",
+  "completionRate": 95,
+  "language": "English"},
+
+
+    
+
+
+
   "12": {
-    "title": "Time Management Strategies",
-    "summaryEnglish": "Learn proven techniques to prioritize tasks and manage time effectively for maximum productivity.",
-    "summaryHindi": "अधिकतम उत्पादकता के लिए कार्यों को प्राथमिकता देने और समय का प्रभावी प्रबंधन करने की सिद्ध तकनीकें सीखें।",
-    "keyPoints": [
-      "Apply the Eisenhower Matrix for task prioritization",
-      "Use the Pomodoro Technique for focused work sessions",
-      "Eliminate time-wasting habits and distractions",
-      "Plan weekly and daily schedules effectively",
-      "Balance work, rest, and learning for sustainable productivity"
-    ],
-    "insights": [
-      "People waste up to 20% of work hours due to poor planning",
-      "Time blocking can increase focus by 40%",
-      "Short breaks improve long-term concentration"
-    ],
-    "actionItems": [
-      "Create a daily to-do list with priorities",
-      "Set timers for 25-minute Pomodoro sessions",
-      "Review weekly goals every Sunday evening",
-      "Track time spent using productivity apps"
-    ],
-    "readingTime": "4 min read",
-    "difficulty": "Intermediate",
-    "completionRate": 90,
-    "language": "English"},
+   "title_en": "Written Communication in Business",
+    "title_hi": "व्यवसाय में लिखित संचार",  
+    "title_mr": "व्यवसायातील लिखित संवाद",
+  "summary_en":
+    "Learn the importance, forms, structure, and functions of written communication, particularly business letters, as a vital tool for professionalism and clarity in organizations.",
+  "summary_hi":
+    "लिखित संचार, विशेष रूप से व्यावसायिक पत्रों के महत्व, रूपों, संरचना, और कार्यों को सीखें, जो संगठनों में पेशेवरता और स्पष्टता के लिए एक महत्वपूर्ण उपकरण हैं।",
+  "summary_mr":
+    "लिखित संवाद, विशेषतः व्यावसायिक पत्रांचे महत्त्व, प्रकार, रचना, आणि कार्ये याबद्दल शिका, जे संस्थांमध्ये व्यावसायिकता आणि स्पष्टतेसाठी एक महत्त्वाचे साधन आहे.",
+  "keyPoints_en": [
+    "Understand the meaning and significance of written communication",
+    "Explore different types of business letters",
+    "Learn the essential layout of formal business letters",
+    "Recognize the need and function of written correspondence in organizations",
+    "Develop professionalism through precise and accessible written messages"
+  ],
+  "keyPoints_hi": [
+    "लिखित संचार का अर्थ और महत्व समझें",
+    "व्यवसायिक पत्रों के विभिन्न प्रकारों का अन्वेषण करें",
+    "औपचारिक व्यावसायिक पत्रों की आवश्यक रूपरेखा सीखें",
+    "संगठनों में लिखित पत्राचार की आवश्यकता और कार्य को पहचानें",
+    "सटीक और सुलभ लिखित संदेशों के माध्यम से पेशेवरता विकसित करें"
+  ],
+  "keyPoints_mr": [
+    "लिखित संवादाचा अर्थ आणि महत्त्व समजून घ्या",
+    "व्यावसायिक पत्रांचे विविध प्रकार शोधा",
+    "औपचारिक व्यावसायिक पत्रांची आवश्यक रचना शिका",
+    "संस्थांमध्ये लिखित पत्रव्यवहाराची गरज आणि कार्य ओळ खा",
+    "अचूक आणि सुलभ लिखित संदेशांद्वारे व्यावसायिकता विकसित करा"
+  ],
+  "insights_en": [
+    "Written communication ensures clarity, professionalism, and permanent documentation",
+    "Business letters serve as a spokesperson for organizations",
+    "Effective letter structure strengthens corporate relationships",
+    "Written communication overcomes language barriers and provides universal access",
+    "Archived written records serve as proof and reference in legal or corporate contexts"
+  ],
+  "insights_hi": [
+    "लिखित संचार स्पष्टता, पेशेवरता, और स्थायी दस्तावेजीकरण सुनिश्चित करता है",
+    "व्यावसायिक पत्र संगठन के लिए एक प्रवक्ता के रूप में कार्य करते हैं",
+    "प्रभावी पत्र संरचना कॉर्पोरेट संबंधों को मजबूत करती है",
+    "लिखित संचार भाषा बाधाओं को पार करता है और सार्वभौमिक पहुंच प्रदान करता है",
+    "संग्रहीत लिखित रिकॉर्ड कानूनी या कॉर्पोरेट संदर्भों में प्रमाण और संदर्भ के रूप में कार्य करते हैं"
+  ],
+  "insights_mr": [
+    "लिखित संवाद स्पष्टता, व्यावसायिकता, आणि कायमस्वरूपी दस्तऐवजीकरण सुनिश्चित करतो",
+    "व्यावसायिक पत्र संस्था साठी प्रवक्ते म्हणून कार्य करतात",
+    "प्रभावी पत्र रचना कॉर्पोरेट संबंध बळकट करते",
+    "लिखित संवाद भाषा अडथळे ओलांडतो आणि सार्वत्रिक प्रवेश प्रदान करतो",
+    "संग्रहीत लिखित नोंदी कायदेशीर किंवा कॉर्पोरेट संदर्भात पुरावा आणि संदर्भ म्हणून कार्य करतात"
+  ],
+  "actionItems_en": [
+    "Practice writing formal business letters with correct structure",
+    "Use professional letterheads and maintain organized formats",
+    "Write concisely to enhance clarity and impact",
+    "Maintain polite closures to encourage positive relations",
+    "Leverage written communication to document and share key business information"
+  ],  
+  "actionItems_hi": [
+    "सही संरचना के साथ औपचारिक व्यावसायिक पत्र लिखने का अभ्यास करें",
+    "पेशेवर लेटरहेड का उपयोग करें और संगठित प्रारूप बनाए रखें",
+    "स्पष्टता और प्रभाव बढ़ाने के लिए संक्षेप में लिखें",
+    "सकारात्मक संबंधों को प्रोत्साहित करने के लिए विनम्र समापन बनाए रखें",
+    "प्रमुख व्यावसायिक जानकारी को दस्तावेजित और साझा करने के लिए लिखित संचार का लाभ उठाएं"
+  ],
+  "actionItems_mr": [
+    "योग्य रचनेसह औपचारिक व्यावसायिक पत्र लिहण्याचा सराव करा",
+    "व्यावसायिक लेटरहेड वापरा आणि संघटित स्वरूप राखा",
+    "स्पष्टता आणि प्रभाव वाढवण्यासाठी संक्षिप त लिहा",
+    "सकारात्मक संबंध प्रोत्साहनासाठी नम्र समापन राखा",
+    "महत्त्वाची व्यावसायिक माहिती दस्तऐवजीकरण आणि सामायिकरण्यासाठी लिखित संवादाचा लाभ घ्या"
+  ],
+  
+  "readingTime_en": "5 min read",
+  "readingTime_hi": "5 मिनट पढ़ें",
+  "readingTime_mr": "५ मिनिटे वाचा",
+  "difficulty_en": "Beginner", 
+  "difficulty_hi": "शुरुआती",
+  "difficulty_mr": "प्रारंभिक",
+  "completionRate": 92,
+  "language": "English"},
+
+
+
   "21": {
-    "title": "Emotional Intelligence at Work",
-    "summaryEnglish": "Understand and apply emotional intelligence skills to build stronger workplace relationships and leadership qualities.",
-    "summaryHindi": "मजबूत कार्यस्थल संबंध और नेतृत्व गुण बनाने के लिए भावनात्मक बुद्धिमत्ता कौशल को समझें और लागू करें।",
-    "keyPoints": [
-      "Recognize and manage your own emotions",
-      "Develop empathy towards colleagues",
-      "Enhance conflict resolution abilities",
-      "Improve leadership with self-awareness",
-      "Promote positive workplace culture"
-    ],
-    "insights": [
-      "High EQ leaders have 70% more engaged teams",
-      "Employees with strong EQ handle stress 50% better",
-      "EQ is a stronger predictor of success than IQ"
-    ],
-    "actionItems": [
-      "Practice daily mindfulness for emotional regulation",
-      "Journal situations that trigger strong emotions",
-      "Seek feedback from peers on communication style",
-      "Attend workshops on empathy and collaboration"
-    ],
-    "readingTime": "5 min read",
-    "difficulty": "Intermediate",
-    "completionRate": 88,
-    "language": "English"},
+  "title_en": "Fundamentals of Accounting",
+  "title_hi": "लेखांकन के मूल तत्व",
+  "title_mr": "लेखांकनाची मूलतत्त्वे",
+  "summary_en":
+    "Discover the meaning, key concepts, equations, and modern applications of accounting, a vital system for recording and analyzing financial transactions to support business decision-making.",
+  "summary_hi":
+    "लेखांकन का अर्थ, प्रमुख अवधारणाएँ, समीकरण, और आधुनिक अनुप्रयोगों की खोज करें, जो वित्तीय लेनदेन को रिकॉर्ड और विश्लेषणित करने के लिए एक महत्वपूर्ण प्रणाली है जो व्यावसायिक निर्णय लेने का समर्थन करती है।",
+  "summary_mr":
+    "लेखांकनाचा अर्थ, मुख्य संकल्पना, समीकरणे, आणि आधुनिक अनुप्रयोगांचा शोध घ्या, जे आर्थिक व्यवहार नोंदविण्यासाठी आणि विश्लेषित करण्यासाठी एक महत्त्वाची प्रणाली आहे जी व्यावसायिक निर्णय घेण्यास समर्थन  करते.",
+  "keyPoints_en": [
+    "Understand the purpose of accounting in business communication",
+    "Learn fundamental concepts such as entity, money measurement, dual aspect, and going concern",
+    "Explore the accounting equation: Assets = Liabilities + Equity",
+    "Recognize the effects of transactions on the accounting equation",
+    "Gain practical insights into modern accounting practices and industry trends"
+  ],
+  "keyPoints_hi": [
+    "व्यवसाय संचार में लेखांकन के उद्देश्य को समझें",
+    "संकल्पनाएँ जैसे इकाई, धन मापन, द्वैध पहलू, और निरंतरता सीखें",
+    "लेखांकन समीकरण का अन्वेषण करें: संपत्ति = देनदारियाँ + इक्विटी",
+    "लेखांकन समीकरण पर लेनदेन के प्रभाव को पहचानें",
+    "आधुनिक लेखांकन प्रथाओं और उद्योग प्रवृत्तियों में व्यावहारिक अंतर्दृष्टि प्राप्त करें"
+  ],
+  "keyPoints_mr": [
+    "व्यवसाय संवादामध्ये लेखांकनाचा उद्देश समजून घ्या",
+    "इकाई, पैसेचे मापन, द्वैध पैलू, आणि निरंतरता यांसारख्या मूलभूत संकल्पना शिका",
+    "लेखांकन समीकरणाचा शोध घ्या: मालमत्ता = देयके + इक्विटी",
+    "लेखांकन समीकरणावर व्यवहारांचे परिणाम ओळखा",
+    "आधुनिक लेखांकन पद्धती आणि उद्योग प्रवृत्तींमध्ये व्यावहारिक अंतर्दृष्टी मिळवा"
+  ],
+  "insights_en": [
+    "The accounting equation ensures every financial transaction has a dual impact",
+    "Entity concept separates business from its owners for accurate reporting",
+    "Going concern assumption underpins long-term valuation of assets and liabilities",
+    "Technology and data analytics are reshaping accounting practices",
+    "Sustainability reporting and globalisation are influencing modern accounting standards"
+  ],
+  "insights_hi": [
+    "लेखांकन समीकरण सुनिश्चित करता है कि हर वित्तीय लेनदेन का द्वैध प्रभाव होता है",
+    "इकाई अवधारणा व्यवसाय को उसके मालिकों से अलग करती है ताकि सटीक रिपोर्टिंग हो सके",
+    "निरंतरता की धारणा संपत्तियों और देनदारियों के दीर्घकालिक मूल्यांकन को आधार देती है",
+    "प्रौद्योगिकी और डेटा विश्लेषण लेखांकन प्रथाओं को पुनः आकार दे रहे हैं",
+    "सततता रिपोर्टिंग और वैश्वीकरण आधुनिक लेखांकन मानकों को प्रभावित कर रहे हैं"
+  ],
+  "insights_mr": [
+    "लेखांकन समीकरण सुनिश्चित करते की प्रत्येक आर्थिक व्यवहाराचा द्वैध परिणाम होतो",
+    "इकाई संकल्पना व्यवसायाला त्याच्या मालकांपासून वेगळे करते जेणेकरून अचूक अहवाल तयार होऊ शकेल",
+    "निरंतरता गृहीतके मालमत्ता आणि देयकांच्या दीर्घकालीन मूल्यांकनाला आधार देते",
+    "तंत्रज्ञान आणि डेटा विश्लेषण लेखांकन पद्धतींना नव्याने आकार देत आहेत",
+    "सततता अहवाल आणि जागतिकीकरण आधुनिक लेखांकन मानकांवर परिणाम करत आहेत"],
+  "actionItems_en": [
+    "Record all transactions systematically to maintain accuracy",
+    "Adopt accounting software for efficiency and real-time reporting",
+    "Apply the dual aspect principle when analyzing transactions",
+    "Stay updated with IFRS and international accounting standards",
+    "Use data analytics for deeper financial insights and forecasting"
+  ],
+  "actionItems_hi": [
+    "सटीकता बनाए रखने के लिए सभी लेनदेन को व्यवस्थित रूप से रिकॉर्ड करें",
+    "कुशलता और वास्तविक समय रिपोर्टिंग के लिए लेखांकन सॉफ़्टवेयर अपनाएं",
+    "लेनदेन का विश्लेषण करते समय द्वैध पहलू सिद्धांत लागू करें",
+    "IFRS और अंतर्राष्ट्रीय लेखांकन मानकों के साथ अपडेट रहें",
+    "गहरे वित्तीय अंतर्दृष्टि और पूर्वानुमान के लिए डेटा विश्लेषण का उपयोग करें"
+  ],
+  "actionItems_mr": [
+    "सर्व व्यवहार अचूकता राखण्यासाठी व्यवस्थितपणे नोंदवा",
+    "कार्यक्षमता आणि वास्तविक-वेळ अहवालासाठी लेखांकन सॉफ्टवेअर स्वीकारा",
+    "व्यवहारांचे विश्लेषण करताना द्वैध पैल ू तत्त्व लागू करा",
+    "IFRS आणि आंतरराष्ट्रीय लेखांकन मानकांसह अद्ययावत रहा",
+    "सखोल आर्थिक अंतर्दृष्टी आणि भाकीतासाठी डेटा विश्लेषणाचा वापर करा"
+  ],
+  "readingTime_en": "6 min read",
+  "readingTime_hi": "6 मिनट पढ़ें",
+  "readingTime_mr": "६ मिनिटे वाचा",
+  "difficulty_en": "Beginner", 
+  "difficulty_hi": "शुरुआती",
+  "difficulty_mr": "प्रारंभिक",
+  "completionRate": 90,
+  "language": "English"},
+
+
   "22": {
-    "title": "Critical Thinking Skills",
-    "summaryEnglish": "Enhance your ability to analyze, evaluate, and make logical decisions in complex business scenarios.",
-    "summaryHindi": "जटिल व्यावसायिक परिदृश्यों में विश्लेषण, मूल्यांकन और तार्किक निर्णय लेने की क्षमता बढ़ाएं।",
-    "keyPoints": [
-      "Identify assumptions and biases",
-      "Strengthen logical reasoning skills",
-      "Evaluate multiple perspectives before decisions",
-      "Apply structured problem-solving techniques",
-      "Improve innovation through critical questioning"
-    ],
-    "insights": [
-      "Critical thinkers reduce decision-making errors by 60%",
-      "Businesses with critical thinking training see 25% faster problem resolution",
-      "Analytical skills are among the top 5 skills employers seek"
-    ],
-    "actionItems": [
-      "Challenge one assumption in every project",
-      "Practice root cause analysis (5 Whys method)",
-      "Debate business case studies with peers",
-      "Take online critical thinking assessments"
-    ],
-    "readingTime": "6 min read",
-    "difficulty": "Advanced",
-    "completionRate": 82,
-    "language": "English"}
+  "title_en": "Basic Accounting Procedures",
+  "title_hi": "मूल लेखांकन प्रक्रियाएँ",
+  "title_mr": "मूलभूत लेखांकन प्रक्रिया",
+  "summary_en":
+    "This unit introduces the fundamental accounting procedures including journalizing, double-entry system, ledger, and trial balance. It explains debit and credit rules, the significance of ledgers, and how trial balances ensure accuracy in financial records.",
+  "summary_hi":
+    "यह इकाई बुनियादी लेखांकन प्रक्रियाओं जैसे जर्नलाइजिंग, डबल-एंट्री सिस्टम, लेजर, और ट्रायल बैलेंस को प्रस्तुत करती है। यह डेबिट और क्रेडिट नियमों, लेजर के महत्व, और कैसे ट्रायल बैलेंस वित्तीय रिकॉर्ड में सटीकता सुनिश्चित करता है, को समझाती है।",
+  "summary_mr":
+    "ही युनिट जर्नलायझिंग, डबल-एंट्री सिस्टम, लेजर, आणि ट्रायल बॅलन्स यांसारख्या मूलभूत लेखांकन प्रक्रियांचा परिचय देते. यात डेबिट आणि क्रेडिट नियम, लेजरचे महत्त्व, आणि ट्रायल बॅलन्स आर्थिक नोंदींमध्ये अचूकता कशी सुनिश्चित करतो हे समजावले आहे.", 
+  "keyPoints_en": [
+    "Understand the process of journalizing and apply debit and credit rules",
+    "Learn the double-entry system and its advantages for accuracy and compliance",
+    "Recognize the meaning and utility of ledgers for data consolidation and analysis",
+    "Prepare and interpret trial balances, ensuring debits equal credits",
+    "Identify and rectify common accounting errors effectively"
+  ],
+
+  "keyPoints_hi": [
+    "जर्नलाइजिंग की प्रक्रिया को समझें और डेबिट और क्रेडिट नियमों को लागू करें",
+    "डबल-एंट्री सिस्टम और इसकी सटीकता और अनुपालन के लिए लाभ सीखें",
+    "डेटा समेकन और विश्लेषण के लिए लेजर के अर्थ और उपयोगिता को पहचानें",
+    "ट्रायल बैलेंस तैयार करें और व्याख्या करें, यह सुनिश्चित करते हुए कि डेबिट क्रेडिट के बराबर हैं",
+    "सामान्य लेखांकन त्रुटियों की पहचान करें और उन्हें प्रभावी ढंग से सुधारें"
+  ],
+
+  "keyPoints_mr": [
+    "जर्नलायझिंगची प्रक्रिया समजून घ्या आणि डेबिट आणि क्रेडिट नियम लागू करा",
+    "डबल-एंट्री सिस्टम आणि त्याचे अचूकता आणि अनुपालनासाठी फायदे शिका",
+    "डेटा एकत्रीकरण आणि विश्लेषणासाठी लेजरचा अर्थ आणि उपयुक्तता ओळखा",
+    "ट्रायल बॅलन्स तयार करा आणि त्याची व्याख्या करा, हे सुनिश्चित करत की डेबिट क्रेडिटच्या बरोबरीने आहेत",
+    "सामान्य लेखांकन त्रुटी ओळखा आणि त्यांचे प्रभावीपणे निराकरण करा"
+  ],
+
+  "insights_en": [
+    "Journalizing provides documentation and an audit trail for all transactions",
+    "The double-entry system is the backbone of modern accounting practices",
+    "Ledgers consolidate data and aid in preparing financial statements",
+    "A trial balance is a key tool to verify accuracy before final accounts",
+    "Error detection and rectification are integral to reliable financial reporting"
+  ],
+
+  "insights_hi": [
+    "जर्नलाइजिंग सभी लेनदेन के लिए दस्तावेजीकरण और एक ऑडिट ट्रेल प्रदान करता है",
+    "डबल-एंट्री सिस्टम आधुनिक लेखांकन प्रथाओं की रीढ़ है",
+    "लेजर डेटा को समेकित करता है और वित्तीय विवरण तैयार करने में सहायता करता है",
+    "ट्रायल बैलेंस अंतिम खातों से पहले सटीकता सत्यापित करने का एक प्रमुख उपकरण है",
+    "त्रुटि पहचान और सुधार विश्वसनीय वित्तीय रिपोर्टिंग का अभिन्न हिस्सा हैं"
+  ],
+
+
+  "insights_mr": [
+    "जर्नलायझिंग सर्व व्यवहारांसाठी दस्तऐवजीकरण आणि एक ऑडिट ट्रेल प्रदान करते",
+    "डबल-एंट्री सिस्टम आधुनिक लेखांकन पद्धतींची कणा आहे",
+    "लेजर डेटा एकत्रित करतो आणि आर्थिक निवेदने तयार करण्यात मदत करतो",
+    "ट्रायल बॅलन्स अंतिम खाती तयार करण्यापूर्वी अचूकता सत्यापित करण्याचे एक महत्त्वाचे साधन आहे",
+    "त्रुटी शोधणे आणि निराकरण विश्वसनीय आर्थिक अहवालाचा अविभाज्य भाग आहे"
+  ],
+
+  "actionItems_en": [
+    "Practice recording sample transactions using the rules of debit and credit",
+    "Apply the double-entry system to real-world accounting scenarios",
+    "Create ledgers from journal entries and balance accounts regularly",
+    "Prepare a trial balance to verify debit and credit totals",
+    "Identify errors such as omission, commission, or principle, and practice rectification"
+  ],
+
+  "actionItems_hi": [
+    "डेबिट और क्रेडिट के नियमों का उपयोग करके नमूना लेनदेन रिकॉर्ड करने का अभ्यास करें",
+    "वास्तविक दुनिया के लेखांकन परिदृश्यों में डबल-एंट्री सिस्टम लागू करें",
+    "जर्नल प्रविष्टियों से लेजर बनाएं और नियमित रूप से खातों को संतुलित करें",
+    "डेबिट और क्रेडिट कुलों को सत्यापित करने के लिए एक ट्रायल बैलेंस तैयार करें",
+    "त्रुटियों जैसे कि उपेक्षा, आयोग, या सिद्धांत की पहचान करें, और सुधार का अभ्यास करें"
+  ],
+
+  "actionItems_mr": [
+    "डेबिट आणि क्रेडिटच्या नियमांचा वापर करून नमुना व्यवहार नोंदवण्याचा सराव करा",
+    "वास्तविक जगातील लेखांकन परिस्थितींमध्ये डबल-एंट्री सिस्टम लागू करा",
+    "जर्नल नोंदींपासून लेजर तयार करा आणि नियमितपणे खाती संतुलित करा",
+    "डेबिट आणि क्रेडिट एकूणांची पडताळणी करण्यासाठी ट्रायल बॅलन्स तयार करा",
+    "उपेक्षा, आयोग, किंवा तत्त्व यांसारख्या त्रुटी ओळखा, आणि सुधारणा करण्याचा सराव करा"
+  ],
+
+  "readingTime_en": "7 min read",
+  "readingTime_hi": "7 मिनट पढ़ें",
+  "readingTime_mr": "७ मिनिटे वाचा",
+  "difficulty_en": "Beginner",
+  "difficulty_hi": "शुरुआती",
+  "difficulty_mr": "प्रारंभिक",
+  "completionRate": 88,
+  "language": "English"}
 }
 
 
